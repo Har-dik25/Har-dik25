@@ -16,24 +16,38 @@
 
 ---
 
+<div align="center">
+
 ## 🔥 About Me
 
-```typescript
-const hardik = {
-    pronouns: "He" | "Him",
-    currentStatus: "3rd Year B.Tech Student 🎓",
-    specialization: ["AI & Data Engineering", "Machine Learning", "Full Stack Development"],
-    location: "Phagwara, Punjab, IN 📍",
-    passions: ["Building Scalable Solutions", "Data Science", "Open Source"],
-    funFact: "I binge-watch web series & movies while debugging code 🎬",
-    lifeGoals: ["Land an amazing ML Engineering internship", "Contribute to major OSS projects", "Build products that impact millions"],
-    availableFor: "Internships, Freelance Projects, and Collaborations"
-};
-```
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+**👨‍💻 Who Am I?**  
+3rd-year B.Tech student specializing in AI & Data Engineering. I transform data into insights and build intelligent solutions.
+
+**🛠️ What I Do?**  
+Python • SQL • Machine Learning • Full-Stack Development • Data Analysis
+
+</td>
+<td width="50%">
+
+**🎯 What I'm Looking For?**  
+ML Engineering internships to work on cutting-edge projects and grow with innovative teams.
+
+**🎬 Fun Fact**  
+I binge-watch web series while debugging code!
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-### 🌟 *"Transforming ideas into intelligent solutions, one line of code at a time."*
+**💡 Let's build something amazing together!**
 
 </div>
 
