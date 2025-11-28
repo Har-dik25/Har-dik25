@@ -6,7 +6,9 @@
 ╩ ╩╩ ╩╩╚══╩╝╩╩ ╩  ╚═╝╩ ╩╚═╝╚═╝═╩╝╩ ╩╩ ╩╩╚═ ╩ 
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=940&lines=AI+%26+Data+Engineering+Student;Full+Stack+Developer+%7C+ML+Enthusiast;Building+Real-World+Solutions+🚀;Turning+Data+into+Insights+📊" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=AI%20%7C%20Data%20Engineering%20%7C%20ML&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=940&lines=AI+%26+Data+Engineering+Student+%F0%9F%8E%93;Full+Stack+Developer+%7C+ML+Enthusiast+%F0%9F%A4%96;Building+Real-World+Solutions+%F0%9F%9A%80;Turning+Data+into+Insights+%F0%9F%93%8A" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Har-dik25&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/Har-dik25)
 [![GitHub followers](https://img.shields.io/github/followers/Har-dik25?label=Followers&style=for-the-badge&color=ff69b4)](https://github.com/Har-dik25)
@@ -30,7 +32,7 @@
 3rd-year B.Tech student specializing in AI & Data Engineering. I transform data into insights and build intelligent solutions.
 
 **🛠️ What I Do?**  
-Python • SQL • Machine Learning • Full-Stack Development • Data Analysis
+Python • Java • SQL • Machine Learning • Full-Stack Development • Data Analysis
 
 </td>
 <td width="50%">
@@ -59,6 +61,7 @@ I binge-watch web series while debugging code!
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -80,11 +83,9 @@ I binge-watch web series while debugging code!
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -217,7 +218,7 @@ I binge-watch web series while debugging code!
 ### 💬 Daily Dev Quote
 
 <!--QUOTE:START-->
-*Loading inspiring quote...*
+*"The best way to predict the future is to invent it."* — **Alan Kay**
 <!--QUOTE:END-->
 
 </div>
@@ -228,28 +229,46 @@ I binge-watch web series while debugging code!
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((Hardik's<br/>Learning Journey))
-    Advanced ML
-      Deep Learning
-      Neural Networks
-      Computer Vision
-      NLP
-    Cloud & DevOps
-      AWS/Azure
-      Docker
-      Kubernetes
-      CI/CD
-    Web3 & Blockchain
-      Smart Contracts
-      DApps
-      Solidity
-    System Design
-      Microservices
-      Load Balancing
-      Distributed Systems
-```
+<table>
+<tr>
+<td align="center" width="25%" bgcolor="#E0F7FA" style="padding: 20px; border-radius: 10px;">
+
+### 🎓 Advanced ML
+Deep Learning  
+Neural Networks  
+Computer Vision  
+NLP  
+
+</td>
+<td align="center" width="25%" bgcolor="#FFF9C4" style="padding: 20px; border-radius: 10px;">
+
+### ☁️ Cloud & DevOps
+AWS/Azure  
+Docker  
+Kubernetes  
+CI/CD  
+
+</td>
+<td align="center" width="25%" bgcolor="#F8BBD0" style="padding: 20px; border-radius: 10px;">
+
+### 🔗 Web3
+Smart Contracts  
+DApps  
+Solidity  
+Blockchain  
+
+</td>
+<td align="center" width="25%" bgcolor="#E1BEE7" style="padding: 20px; border-radius: 10px;">
+
+### 🏗️ System Design
+Microservices  
+Load Balancing  
+Distributed Systems  
+Scalability  
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -283,10 +302,8 @@ mindmap
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardik2583/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Har-dik25)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hardik2583@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hardikkumar2583@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Har-dik25)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
 
 </div>
@@ -300,7 +317,7 @@ mindmap
 | 🎬 | 🎮 | 📚 | ⚡ |
 |---|---|---|---|
 | Netflix Binger | Tech Explorer | Avid Learner | Problem Solver |
-| Web Series Fan | Coding Enthusiast | AI Researcher | Coffee Lover |
+| Web Series Fan | Coding Enthusiast | AI Researcher | Coffee Lover ☕ |
 
 </div>
 
@@ -355,35 +372,61 @@ mindmap
 
 ## 📈 My Learning Journey Timeline
 
-```mermaid
-timeline
-    title My Development Journey
-    2022 : Started Programming Journey
-         : Learned Python & DSA basics
-         : Built first web project
-    2023 : Explored Data Science & ML
-         : Completed 3 major projects
-         : Started competitive coding
-    2024 : Advanced ML & Deep Learning
-         : Built AI-powered applications
-         : Contributed to open source
-    2025 : Aiming for ML internships
-         : Building production systems
-         : Expanding cloud expertise
-```
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%" bgcolor="#BBDEFB" style="padding: 15px; border-radius: 8px;">
+
+**2022**  
+🎯 Started Programming  
+📚 Python & DSA basics  
+🌐 First web project  
+
+</td>
+<td align="center" width="25%" bgcolor="#C8E6C9" style="padding: 15px; border-radius: 8px;">
+
+**2023**  
+📊 Data Science & ML  
+🚀 3 major projects  
+💻 Competitive coding  
+
+</td>
+<td align="center" width="25%" bgcolor="#FFE082" style="padding: 15px; border-radius: 8px;">
+
+**2024**  
+🧠 Deep Learning  
+🤖 AI applications  
+🌟 Open source  
+
+</td>
+<td align="center" width="25%" bgcolor="#F8BBD0" style="padding: 15px; border-radius: 8px;">
+
+**2025**  
+🎯 ML internships  
+☁️ Cloud expertise  
+🚀 Production systems  
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🌈 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+### 🌟 *"In the realm of AI, every algorithm is a step towards understanding intelligence itself."*
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
 
-### 💖 Thanks for visiting! Let's build something amazing together! 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+### 💫 *Curiosity fuels my code. Innovation drives my passion. AI shapes my future.*
+
+**Let's build the future of technology together!** 🚀✨
 
 </div>
