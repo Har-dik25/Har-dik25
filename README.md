@@ -214,11 +214,27 @@ I binge-watch web series while debugging code!
 </div>
 
 ---
-## 🐍 Contribution Snake Animation
 
-![Snake Animation](https://raw.githubusercontent.com/Har-dik25/Har-dik25/output/snake.svg)
+## 🦖 **CONTRIBUTION ACTIVITY**
+
+<div align="center">
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
+
+<em>Watch the dinosaur eat my contributions! 🦕</em>
+
+</div>
 
 ---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600">
+
+</div>
+
+---
+
 
 ## 💬 Daily Dev Quote
 
