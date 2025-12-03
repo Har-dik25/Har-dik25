@@ -216,7 +216,8 @@ I binge-watch web series while debugging code!
 ---
 ## 🐍 Contribution Snake Animation
 
-![Snake animation](https://github.com/Har-dik25/Har-dik25/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/Har-dik25/Har-dik25/output/snake.svg)
+
 ---
 
 ## 💬 Daily Dev Quote
