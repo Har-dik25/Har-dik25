@@ -211,10 +211,73 @@ I binge-watch web series while debugging code!
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Har-dik25&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Har-dik25&theme=tokyonight&utcOffset=5.5" />
 
-### 🐍 Contribution Snake
+name: Generate Snake
 
-![Snake animation](https://raw.githubusercontent.com/Har-dik25/Har-dik25/output/github-contribution-grid-snake-dark.svg)
+# Controls when the workflow will run
+on:
+  # Runs every 12 hours
+  schedule:
+    - cron: "0 */12 * * *"
+  
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+  
+  # Run on every push to main branch
+  push:
+    branches:
+      - main
 
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  generate:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      # Generates the snake animation
+      # IMPORTANT: This uses Platane/snk@v3 which is the stable version as of 2025
+      # It generates both light and dark mode SVGs
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk@v3
+        with:
+          # GitHub username - REPLACE WITH YOUR USERNAME IF NEEDED
+          github_user_name: Har-dik25
+          # Output paths - these are where the SVG files will be saved
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          # This token is required for the action to access your contribution data
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Deploys the generated files to the output branch
+      # This is necessary so the files are accessible via raw.githubusercontent.com
+      - name: Push github-contribution-grid-snake.svg to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          # The branch where the SVG files will be pushed
+          target_branch: output
+          # The directory containing the files to deploy
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+# FALLBACK INSTRUCTIONS IF THIS DOESN'T WORK:
+# 1. Go to Settings → Actions → General
+# 2. Under "Workflow permissions", select "Read and write permissions"
+# 3. Check "Allow GitHub Actions to create and approve pull requests"
+# 4. Save changes
+# 5. Go to Actions tab, click "Generate Snake", click "Run workflow"
+# 6. Wait 2-3 minutes
+# 7. Check if "output" branch was created: github.com/Har-dik25/Har-dik25/branches
+# 8. If output branch exists, the snake should be at:
+#    https://raw.githubusercontent.com/Har-dik25/Har-dik25/output/github-contribution-grid-snake-dark.svg
 ### 💬 Daily Dev Quote
 
 <!--QUOTE:START-->
