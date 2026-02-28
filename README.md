@@ -1,36 +1,29 @@
 <div align="center">
 
 <!-- DYNAMIC HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeAuto&amp;height=250&amp;section=header&amp;text=HARDIK%20CHOUDHARY&amp;fontSize=50&amp;fontAlignY=35&amp;desc=AI%20%26%20Data%20Engineer%20|%20Full%20Stack%20Developer&amp;descSize=18&amp;descAlignY=55&amp;animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=250&section=header&text=HARDIK%20CHOUDHARY&fontSize=50&fontAlignY=35&desc=AI%20%26%20Data%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=55&animation=twinkling" width="100%"/>
 
 <!-- TERMINAL TYPING EFFECT -->
-<br><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=00FFCC&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=60&amp;lines=%3E_+$+Building+Intelligent+Systems+with+AI+and+Data;%3E_+$+Turning+Complex+Algorithms+into+Real-World+Solutions;%3E_+$+Constantly+Learning,+Always+Coding" alt="Typing SVG" />
-
-<br><br>
-
-<!-- GITHUB TROPHIES (Dynamically Updates) -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Har-dik25&amp;theme=radical&amp;margin-w=15&amp;margin-h=15&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7" alt="trophy" />
-</a>
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&height=60&lines=%3E_+$+Building+Intelligent+Systems+with+AI+and+Data;%3E_+$+Turning+Complex+Algorithms+into+Real-World+Solutions;%3E_+$+Constantly+Learning,+Always+Coding" alt="Typing SVG" />
 
 <br><br>
 
 <a href="https://github.com/Har-dik25">
-  <img src="https://komarev.com/ghpvc/?username=Har-dik25&amp;label=PROFILE+VIEWS&amp;color=00FFCC&amp;style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Har-dik25&label=PROFILE+VIEWS&color=00FFCC&style=for-the-badge" alt="Profile Views" />
 </a>
 <a href="https://github.com/Har-dik25?tab=followers">
-  <img src="https://img.shields.io/github/followers/Har-dik25?label=FOLLOWERS&amp;style=for-the-badge&amp;color=8A2BE2&amp;labelColor=1a1b27" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/Har-dik25?label=FOLLOWERS&style=for-the-badge&color=8A2BE2&labelColor=1a1b27" alt="GitHub followers" />
 </a>
 <a href="https://github.com/Har-dik25">
-  <img src="https://img.shields.io/github/stars/Har-dik25?label=TOTAL+STARS&amp;style=for-the-badge&amp;color=FF00FF&amp;labelColor=1a1b27" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/stars/Har-dik25?label=TOTAL+STARS&style=for-the-badge&color=FF00FF&labelColor=1a1b27" alt="GitHub Stars" />
 </a>
 
 </div>
 
 <br><br>
 
-<h2 align="center">👨‍💻 <code>whoami</code></h2>
+## 👨‍💻 `whoami`
 
 ```python
 class HardikChoudhary:
@@ -59,26 +52,26 @@ print(user.execute_vision())
 
 <br>
 
-<h2 align="center">🚀 <code>tech_stack.sh</code></h2>
+## 🚀 `tech_stack.sh`
 
 <div align="center">
   <p><i>High-Res dynamically rendered skill icons</i></p>
   
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,c,cpp&amp;theme=dark" alt="Code Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,c,cpp&theme=dark" alt="Code Languages" />
   <br><br>
   
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikit,opencv,react,nextjs,nodejs,express&amp;theme=dark" alt="Libraries and Frameworks" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikit,opencv,react,nextjs,nodejs,express&theme=dark" alt="Libraries and Frameworks" />
   <br><br>
   
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,mysql,postgres,mongodb,docker,git,github&amp;theme=dark" alt="Tools and Databases" />
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,mysql,postgres,mongodb,docker,git,github&theme=dark" alt="Tools and Databases" />
 </div>
 
 <br><br>
 
-<h2 align="center">⚡ <code>featured_projects.exe</code></h2>
+## ⚡ `featured_projects.exe`
 
 ### ⚖️ [LegalMind RAG](https://github.com/Har-dik25/LegalMindRag)
-<img src="https://img.shields.io/badge/🥇_FLAGSHIP-00FFCC?style=for-the-badge&amp;labelColor=222222" alt="Flagship" />
+![Flagship](https://img.shields.io/badge/🥇_FLAGSHIP-00FFCC?style=for-the-badge&labelColor=222222)
 
 *AI-Powered Legal Document Intelligence Platform*
 
@@ -88,13 +81,13 @@ print(user.execute_vision())
 - 🎨 Premium dark-mode UI with glassmorphism
 
 <a href="https://github.com/Har-dik25/LegalMindRag">
-  <img src="https://img.shields.io/badge/Explore_Repo-00FFCC?style=flat-square&amp;logo=github&amp;logoColor=black" alt="Explore Repo" />
+  <img src="https://img.shields.io/badge/Explore_Repo-00FFCC?style=flat-square&logo=github&logoColor=black" alt="Explore Repo" />
 </a>
 
 ---
 
 ### 🏢 [CampusFlow HRMS](https://github.com/Har-dik25/hrms-frontend)
-<img src="https://img.shields.io/badge/⭐_FULL_STACK-FF00FF?style=for-the-badge&amp;labelColor=222222" alt="Full Stack" />
+![Full Stack](https://img.shields.io/badge/⭐_FULL_STACK-FF00FF?style=for-the-badge&labelColor=222222)
 
 *Full-Stack Human Resource Management System*
 
@@ -104,16 +97,16 @@ print(user.execute_vision())
 - 🔐 Role-based authentication system
 
 <a href="https://github.com/Har-dik25/hrms-frontend">
-  <img src="https://img.shields.io/badge/Frontend-FF00FF?style=flat-square&amp;logo=github" alt="Frontend Repo" />
+  <img src="https://img.shields.io/badge/Frontend-FF00FF?style=flat-square&logo=github" alt="Frontend Repo" />
 </a>
 <a href="https://github.com/Har-dik25/hrms-backend">
-  <img src="https://img.shields.io/badge/Backend-8A2BE2?style=flat-square&amp;logo=github" alt="Backend Repo" />
+  <img src="https://img.shields.io/badge/Backend-8A2BE2?style=flat-square&logo=github" alt="Backend Repo" />
 </a>
 
 ---
 
 ### 📸 [OCR Studio](https://github.com/Har-dik25/OCR-Studio-Offline-Image-to-JSON-Web-App)
-<img src="https://img.shields.io/badge/🤖_AI_POWERED-00FFCC?style=for-the-badge&amp;labelColor=222222" alt="AI Powered" />
+![AI Powered](https://img.shields.io/badge/🤖_AI_POWERED-00FFCC?style=for-the-badge&labelColor=222222)
 
 *Offline Image-to-JSON Document Extraction*
 
@@ -123,13 +116,13 @@ print(user.execute_vision())
 - ⚡ Instant extraction with high accuracy
 
 <a href="https://github.com/Har-dik25/OCR-Studio-Offline-Image-to-JSON-Web-App">
-  <img src="https://img.shields.io/badge/Explore_Repo-00FFCC?style=flat-square&amp;logo=github&amp;logoColor=black" alt="Explore Repo" />
+  <img src="https://img.shields.io/badge/Explore_Repo-00FFCC?style=flat-square&logo=github&logoColor=black" alt="Explore Repo" />
 </a>
 
 ---
 
 ### 🚦 [AI Traffic Analysis](https://github.com/Har-dik25/AI-Traffic-Congestion-Analysis)
-<img src="https://img.shields.io/badge/🧠_DEEP_LEARNING-FF00FF?style=for-the-badge&amp;labelColor=222222" alt="Deep Learning" />
+![Deep Learning](https://img.shields.io/badge/🧠_DEEP_LEARNING-FF00FF?style=for-the-badge&labelColor=222222)
 
 *Smart Traffic Management with Computer Vision*
 
@@ -139,12 +132,12 @@ print(user.execute_vision())
 - 🗺️ Dynamic heat map generation
 
 <a href="https://github.com/Har-dik25/AI-Traffic-Congestion-Analysis">
-  <img src="https://img.shields.io/badge/Explore_Repo-FF00FF?style=flat-square&amp;logo=github&amp;logoColor=black" alt="Explore Repo" />
+  <img src="https://img.shields.io/badge/Explore_Repo-FF00FF?style=flat-square&logo=github&logoColor=black" alt="Explore Repo" />
 </a>
 
 <br><br>
 
-<h2 align="center">🎯 <code>roadmap_2026.yml</code></h2>
+## 🎯 `roadmap_2026.yml`
 
 ```yaml
 2026_Goals:
@@ -164,39 +157,39 @@ Current_Focus:
 
 <br><br>
 
-<h2 align="center">📊 <code>github_analytics.json</code></h2>
+## 📊 `github_analytics.json`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Har-dik25&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true&amp;bg_color=0d1117&amp;title_color=00FFCC&amp;icon_color=FF00FF&amp;text_color=FFFFFF" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Har-dik25&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;stroke=00FFCC&amp;ring=FF00FF&amp;fire=00FFCC&amp;currStreakLabel=FFFFFF&amp;sideLabels=FFFFFF&amp;currStreakNum=FFFFFF&amp;dates=FFFFFF" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Har-dik25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00FFCC&icon_color=FF00FF&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Har-dik25&theme=tokyonight&hide_border=true&background=0d1117&stroke=00FFCC&ring=FF00FF&fire=00FFCC&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF" alt="GitHub Streak" width="48%" />
 
   <br><br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Har-dik25&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;bg_color=0d1117&amp;color=00FFCC&amp;line=FF00FF&amp;point=FFFFFF&amp;area_color=FF00FF" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Har-dik25&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=00FFCC&line=FF00FF&point=FFFFFF&area_color=FF00FF" alt="Activity Graph" width="98%" />
   
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Har-dik25&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=FF00FF&amp;text_color=FFFFFF&amp;langs_count=10" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Har-dik25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF00FF&text_color=FFFFFF&langs_count=10" alt="Top Languages" width="48%" />
 </div>
 
 <br><br>
 
-<h2 align="center">🌐 <code>connect_with_me.sh</code></h2>
+## 🌐 `connect_with_me.sh`
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hardik2583/">
-    <img src="https://img.shields.io/badge/LinkedIn-00FFCC?style=for-the-badge&amp;logo=linkedin&amp;logoColor=black&amp;labelColor=222222" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-00FFCC?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=222222" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:hardikkumar2583@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF00FF?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=222222" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-FF00FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=222222" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/Har-dik25">
-    <img src="https://img.shields.io/badge/GitHub-00FFCC?style=for-the-badge&amp;logo=github&amp;logoColor=black&amp;labelColor=222222" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-00FFCC?style=for-the-badge&logo=github&logoColor=black&labelColor=222222" alt="GitHub" />
   </a>
 
   <br><br>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeAuto&amp;height=120&amp;section=footer" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=footer" width="100%" alt="Footer Wave" />
 </div>
