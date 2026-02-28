@@ -4,7 +4,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=250&section=header&text=HARDIK%20CHOUDHARY&fontSize=50&fontAlignY=35&desc=AI%20%26%20Data%20Engineer%20•%20Full%20Stack%20Developer&descSize=18&descAlignY=55&animation=twinkling" width="100%"/>
 
 <!-- TERMINAL TYPING EFFECT -->
+<br>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&height=60&lines=%3E_+$+Building+Intelligent+Systems+with+AI+and+Data;%3E_+$+Turning+Complex+Algorithms+into+Real-World+Solutions;%3E_+$+Constantly+Learning,+Always+Coding" alt="Typing SVG" />
+
+<br/>
+
+<!-- GITHUB TROPHIES (Dynamically Updates) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Har-dik25&theme=radical&margin-w=15&margin-h=15&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
@@ -16,17 +22,26 @@
 
 <br/>
 
-## 👨‍💻 `whoami`
+<!-- Mac OS Floating Terminal Window -->
+<h2 align="center">👨‍💻 <code>whoami</code></h2>
 
-<table align="center" style="border: none;">
-<tr style="border: none;">
-<td width="55%" style="border: none;">
+<div align="center">
+
+<table align="center" width="850" style="border-collapse: collapse;">
+  <tr border="none">
+    <td width="850" align="left" bgcolor="#1A1B27" style="border-top-left-radius: 10px; border-top-right-radius: 10px; padding: 10px;">
+      <img src="https://raw.githubusercontent.com/chnirt/chnirt/master/mac-window-buttons.svg" width="50" align="left"/> 
+      &nbsp;&nbsp;<b><font color="#ffffff">hardik@macbook-pro:~</font></b>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#0D1117" align="left" style="border-bottom-left-radius: 10px; border-bottom-right-radius: 10px; padding: 20px;">
 
 ```python
 class HardikChoudhary:
     def __init__(self):
         self.role = "AI & Data Engineering Student"
-        self.education = "B.Tech (3rd Year)"
+        self.education = "B.Tech (3rd Year) 🎓"
         self.location = "India 🇮🇳"
         
     def get_skills(self):
@@ -40,55 +55,36 @@ class HardikChoudhary:
     def get_status(self):
         return "Seeking ML Internships 🌱"
 
-    def contact(self):
-        return "hardikkumar2583@gmail.com"
+    def execute_vision(self):
+        return "Transforming complex datasets into actionable, real-world systems."
+
+user = HardikChoudhary()
+print(user.execute_vision())
 ```
-
-</td>
-<td width="45%" style="border: none;">
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 
----
-
-## 🚀 `tech_stack.sh`
-
-<div align="center">
-
-### 🧠 Languages & Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🤖 AI / ML / Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### 🚀 Frameworks & DevOps
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 </div>
 
 ---
 
-## ⚡ `featured_projects.exe`
+<h2 align="center">🚀 <code>tech_stack.sh</code></h2>
+
+<div align="center">
+  <p><i>High-Res dynamically rendered skill icons</i></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,c,cpp&theme=dark" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikit,opencv,react,nextjs,nodejs,express&theme=dark" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=flask,fastapi,mysql,postgres,mongodb,docker,git,github&theme=dark" />
+  </a>
+</div>
+
+---
+
+<h2 align="center">⚡ <code>featured_projects.exe</code></h2>
 
 <table align="center">
 <tr>
@@ -156,49 +152,75 @@ class HardikChoudhary:
 
 </td>
 </tr>
+</table>
 
-<tr>
-<td width="50%" valign="top">
+<br>
 
+<details align="center">
+  <summary><b>📂 CLICK TO EXPAND: View More Projects</b></summary>
+  <br/>
+  <table align="center">
+    <tr>
+      <td width="50%" valign="top">
+      
 ### 📓 [Personal Diary App](https://github.com/Har-dik25/Persnoal-Diary-Application)
 <img src="https://img.shields.io/badge/🔒_ENCRYPTED-00FFCC?style=for-the-badge&labelColor=222222" />
 
-*Secure Digital Diary with AES-256 Encryption*
-
-**Tech:** Python • Tkinter • SQLite • Cryptography
-- 🔒 AES-256 encryption for all entries
-- 🔍 Full-text search capability
-- 🎨 Custom themes & dark mode
+*Secure Digital Diary with AES-256*
+- 🔒 AES-256 encryption implementation
+- 🔍 Full-text search functionality
+- 🎨 Custom local GUI themes
 
 [![View Code](https://img.shields.io/badge/Explore_Repo-00FFCC?style=flat-square&logo=github&logoColor=black)](https://github.com/Har-dik25/Persnoal-Diary-Application)
 
-</td>
-<td width="50%" valign="top">
+      </td>
+      <td width="50%" valign="top">
 
 ### 🎓 [UMS Replica](https://github.com/Har-dik25/UMS-replica)
 <img src="https://img.shields.io/badge/🏫_EDUCATION-FF00FF?style=for-the-badge&labelColor=222222" />
 
-*University Management System Clone*
-
-**Tech:** HTML • CSS • JavaScript • Backend
-- 🎓 Student, faculty & course management
-- 📊 Grade tracking dashboard
-- 🔐 Multi-role access control
+*University Management Clone*
+- 🎓 Complete course management system
+- 📊 Student grade tracking
+- 🔐 Secure multi-role access control
 
 [![View Code](https://img.shields.io/badge/Explore_Repo-FF00FF?style=flat-square&logo=github&logoColor=black)](https://github.com/Har-dik25/UMS-replica)
 
-</td>
-</tr>
-</table>
+      </td>
+    </tr>
+  </table>
+</details>
+
+<br>
+
+<details align="center">
+  <summary><b>🎯 CLICK TO EXPAND: 2026 Developer Roadmap</b></summary>
+  <br/>
+  
+```yaml
+2026_Goals:
+  -  [ ] Build & deploy 3 production AI/LLM applications
+  -  [ ] Land ML Engineering role at a top tech company
+  -  [ ] Publish research paper in AI/ML domain
+  -  [ ] Earn AWS ML Specialty Certification
+  -  [ ] Contribute to 5+ major open-source AI projects
+  
+Current_Focus:
+  Deep_Learning:
+    - Advanced RAG Systems & Vector Databases
+    - HuggingFace & Fine-tuning Local LLMs
+  Engineering:
+    - MLOps (Docker, Kubernetes for ML)
+```
+</details>
 
 ---
 
-## 📊 `github_analytics.json`
+<h2 align="center">📊 <code>github_analytics.json</code></h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Har-dik25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=00FFCC&icon_color=FF00FF&text_color=FFFFFF&ring_color=00FFCC" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Har-dik25&theme=tokyonight&hide_border=true&background=00000000&stroke=00FFCC&ring=FF00FF&fire=00FFCC&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=Har-dik25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=00FFCC&icon_color=FF00FF&text_color=FFFFFF&ring_color=00FFCC" /><img width="50%" src="https://streak-stats.demolab.com/?user=Har-dik25&theme=tokyonight&hide_border=true&background=00000000&stroke=00FFCC&ring=FF00FF&fire=00FFCC&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF" />
 
 <br/>
 <br/>
@@ -208,14 +230,13 @@ class HardikChoudhary:
 <br/>
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Har-dik25&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=FF00FF&text_color=FFFFFF&langs_count=10" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Har-dik25&theme=tokyonight&utcOffset=5.5&bg_color=00000000" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Har-dik25&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=FF00FF&text_color=FFFFFF&langs_count=10" /><img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Har-dik25&theme=tokyonight&utcOffset=5.5&bg_color=00000000" />
 
 </div>
 
 ---
 
-## 🐍 `contribution_snake.gif`
+<h2 align="center">🐍 <code>contribution_snake.gif</code></h2>
 
 <div align="center">
 
@@ -229,32 +250,11 @@ class HardikChoudhary:
 
 ---
 
-## 🎯 `roadmap_2026.yml`
+<h2 align="center">🌐 <code>connect_with_me.sh</code></h2>
 
 <div align="center">
 
-```yaml
-2026_Goals:
-  - 🔲 Build & deploy 3 production AI/LLM applications
-  - 🔲 Land ML Engineering role at a top tech company
-  - 🔲 Publish research paper in AI/ML domain
-  - 🔲 Earn AWS ML Specialty Certification
-  - 🔲 Contribute to 5+ major open-source AI projects
-  
-Current_Focus:
-  Learning:
-    - Advanced RAG Systems & Vector Databases
-    - HuggingFace & Fine-tuning LLMs
-    - MLOps (Docker, Kubernetes for ML)
-```
-
-</div>
-
----
-
-## 🌐 `connect_with_me.sh`
-
-<div align="center">
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00FFCC?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=222222)](https://www.linkedin.com/in/hardik2583/)
 [![Email](https://img.shields.io/badge/Email-FF00FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=222222)](mailto:hardikkumar2583@gmail.com)
