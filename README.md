@@ -1,10 +1,9 @@
 <div align="center">
 
-<!-- DYNAMIC HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=250&section=header&text=HARDIK%20CHOUDHARY&fontSize=50&fontAlignY=35&desc=AI%20%26%20Data%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=55&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=HARDIK%20CHOUDHARY&fontSize=50&fontAlignY=35&desc=AI%20%26%20Data%20Engineer%20|%20Full%20Stack%20Developer&descSize=18&descAlignY=55" width="100%"/>
 
-<!-- TERMINAL TYPING EFFECT -->
-<br>
+<br><br>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&height=60&lines=%3E_+$+Building+Intelligent+Systems+with+AI+and+Data;%3E_+$+Turning+Complex+Algorithms+into+Real-World+Solutions;%3E_+$+Constantly+Learning,+Always+Coding" alt="Typing SVG" />
 
 <br><br>
@@ -13,10 +12,10 @@
   <img src="https://komarev.com/ghpvc/?username=Har-dik25&label=PROFILE+VIEWS&color=00FFCC&style=for-the-badge" alt="Profile Views" />
 </a>
 <a href="https://github.com/Har-dik25?tab=followers">
-  <img src="https://img.shields.io/github/followers/Har-dik25?label=FOLLOWERS&style=for-the-badge&color=8A2BE2&labelColor=1a1b27" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/Har-dik25?label=FOLLOWERS&style=for-the-badge&color=8A2BE2" alt="GitHub followers" />
 </a>
 <a href="https://github.com/Har-dik25">
-  <img src="https://img.shields.io/github/stars/Har-dik25?label=TOTAL+STARS&style=for-the-badge&color=FF00FF&labelColor=1a1b27" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/stars/Har-dik25?label=TOTAL+STARS&style=for-the-badge&color=FF00FF" alt="GitHub Stars" />
 </a>
 
 </div>
@@ -71,7 +70,7 @@ print(user.execute_vision())
 ## ⚡ `featured_projects.exe`
 
 ### ⚖️ [LegalMind RAG](https://github.com/Har-dik25/LegalMindRag)
-![Flagship](https://img.shields.io/badge/🥇_FLAGSHIP-00FFCC?style=for-the-badge&labelColor=222222)
+![Flagship](https://img.shields.io/badge/🥇_FLAGSHIP-00FFCC?style=for-the-badge)
 
 *AI-Powered Legal Document Intelligence Platform*
 
@@ -87,7 +86,7 @@ print(user.execute_vision())
 ---
 
 ### 🏢 [CampusFlow HRMS](https://github.com/Har-dik25/hrms-frontend)
-![Full Stack](https://img.shields.io/badge/⭐_FULL_STACK-FF00FF?style=for-the-badge&labelColor=222222)
+![Full Stack](https://img.shields.io/badge/⭐_FULL_STACK-FF00FF?style=for-the-badge)
 
 *Full-Stack Human Resource Management System*
 
@@ -106,7 +105,7 @@ print(user.execute_vision())
 ---
 
 ### 📸 [OCR Studio](https://github.com/Har-dik25/OCR-Studio-Offline-Image-to-JSON-Web-App)
-![AI Powered](https://img.shields.io/badge/🤖_AI_POWERED-00FFCC?style=for-the-badge&labelColor=222222)
+![AI Powered](https://img.shields.io/badge/🤖_AI_POWERED-00FFCC?style=for-the-badge)
 
 *Offline Image-to-JSON Document Extraction*
 
@@ -122,7 +121,7 @@ print(user.execute_vision())
 ---
 
 ### 🚦 [AI Traffic Analysis](https://github.com/Har-dik25/AI-Traffic-Congestion-Analysis)
-![Deep Learning](https://img.shields.io/badge/🧠_DEEP_LEARNING-FF00FF?style=for-the-badge&labelColor=222222)
+![Deep Learning](https://img.shields.io/badge/🧠_DEEP_LEARNING-FF00FF?style=for-the-badge)
 
 *Smart Traffic Management with Computer Vision*
 
@@ -159,37 +158,37 @@ Current_Focus:
 
 ## 📊 `github_analytics.json`
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Har-dik25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00FFCC&icon_color=FF00FF&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Har-dik25&theme=tokyonight&hide_border=true&background=0d1117&stroke=00FFCC&ring=FF00FF&fire=00FFCC&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF" alt="GitHub Streak" width="48%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Har-dik25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Har-dik25&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 
   <br><br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Har-dik25&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=00FFCC&line=FF00FF&point=FFFFFF&area_color=FF00FF" alt="Activity Graph" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Har-dik25&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="98%" />
   
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Har-dik25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF00FF&text_color=FFFFFF&langs_count=10" alt="Top Languages" width="48%" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Har-dik25&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" width="48%" />
+</p>
 
 <br><br>
 
 ## 🌐 `connect_with_me.sh`
 
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/hardik2583/">
-    <img src="https://img.shields.io/badge/LinkedIn-00FFCC?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=222222" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:hardikkumar2583@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF00FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=222222" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/Har-dik25">
-    <img src="https://img.shields.io/badge/GitHub-00FFCC?style=for-the-badge&logo=github&logoColor=black&labelColor=222222" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
   <br><br>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=footer" width="100%" alt="Footer Wave" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="Footer Wave" />
+</p>
