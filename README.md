@@ -99,7 +99,7 @@ print(user.current_status())
 | 🟠 | Oracle OCI — **Generative AI Professional** | [Certificate ↗](https://www.linkedin.com/posts/hardik8_generative-ai-professional-activity-7388917134468431872-ipzL) | Sep '25 |
 | 🟠 | Oracle OCI — **Data Science Professional** | [Certificate ↗](https://www.linkedin.com/posts/hardik8_data-science-professional-activity-7389534104666476544-doIF) | Sep '25 |
 | 🥇 | Kaggle — **Top 10% / 500+ Competitors** | [Submission ↗](https://github.com/JXPJXT/Kaggle-Backpack-Prediction-Challenge) | Mar '25 |
-| ⭐ | HackerRank — **5-Star Python & SQL** | [Profile ↗](https://www.hackerrank.com/) | Oct '25 |
+| ⭐ | HackerRank — **5-Star Python &amp; SQL** | [Profile ↗](https://www.hackerrank.com/) | Oct '25 |
 | 💡 | LeetCode — **80+ Problems Solved** | [Profile ↗](https://leetcode.com/) | Jun '25 |
 
 </div>
@@ -108,22 +108,14 @@ print(user.current_status())
 
 ## 💼 `experience.log`
 
-<table width="100%">
-<tr>
-<td>
-
 ### 📊 Data Analyst Intern — [Futurense Technologies](https://www.futurense.com/)
-**`Jun '25 – Aug '25` &nbsp;|&nbsp; Python • SQL • Power BI • Streamlit**
+**`Jun '25 – Aug '25`** &nbsp;·&nbsp; Python • SQL • Power BI • Streamlit
 
 ```
 ✅  Cleaned & preprocessed 30,000+ records  →  +15% data accuracy
-✅  EDA-driven insights delivered            →  +20% faster decision-making  
+✅  EDA-driven insights delivered            →  +20% faster decision-making
 ✅  Automated Power BI & Streamlit reports   →  -40% reporting effort
 ```
-
-</td>
-</tr>
-</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -180,7 +172,7 @@ print(user.current_status())
 | Feature | Detail |
 |---|---|
 | 🧠 Dual RAG Engine | LangChain pipeline + Pure Python fallback — zero single-point-of-failure |
-| ⚡ Grounded Q&A | Real-time answers with document-level source citations |
+| ⚡ Grounded Q&amp;A | Real-time answers with document-level source citations |
 | 🎨 UI Design | Premium dark-mode glassmorphism interface |
 
 <a href="https://github.com/Har-dik25/LegalMindRag">
@@ -198,7 +190,7 @@ print(user.current_status())
 
 | Feature | Detail |
 |---|---|
-| 🗄️ Data Pipeline | Ingested & cleaned **80,000+ records** from heterogeneous sources |
+| 🗄️ Data Pipeline | Ingested &amp; cleaned **80,000+ records** from heterogeneous sources |
 | 📐 ML Performance | **89% R²** — best-in-class congestion prediction accuracy |
 | ☁️ Cloud Deployment | AWS-hosted Flask backend + real-time Power BI dashboards |
 
@@ -307,7 +299,11 @@ currently_deep_diving:
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/Har-dik25/Har-dik25/output/dist/github-snake-dark.svg" width="100%" alt="Contribution Snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Har-dik25/Har-dik25/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Har-dik25/Har-dik25/blob/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
 
 </div>
 
