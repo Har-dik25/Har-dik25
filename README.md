@@ -1,246 +1,340 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=HARDIK%20CHOUDHARY&fontSize=50&fontAlignY=35&desc=AI%20and%20Data%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=HARDIK%20CHOUDHARY&fontSize=52&fontAlignY=36&desc=AI%20%26%20Data%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Oracle%20OCI%20Certified&descSize=17&descAlignY=56&animation=fadeIn" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=850&height=60&lines=%3E_+%24+Oracle+OCI+Certified+%7C+Gen+AI+%26+Data+Science+Pro;%3E_+%24+Data+Analyst+Intern+%40+Futurense+Technologies;%3E_+%24+Top+10%25+Kaggle+%7C+5%E2%98%85+HackerRank+Python+%26+SQL;%3E_+%24+Building+RAG+Systems+and+Intelligent+Pipelines;%3E_+%24+Open+to+ML+%7C+SDE+%7C+Data+Internships+%F0%9F%8C%B1" alt="Typing SVG" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&height=60&lines=%3E_+%24+Oracle+OCI+Certified+%7C+Gen+AI+%26+Data+Science+Pro;%3E_+%24+Data+Analyst+Intern+%40+Futurense+Technologies;%3E_+%24+Top+10%25+Kaggle+%7C+5%E2%98%85+HackerRank+Python+%26+SQL;%3E_+%24+Building+Intelligent+Systems+with+AI+and+Data" alt="Typing SVG" />
+<a href="https://www.linkedin.com/in/hardik8/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:hardikkumar2583@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/Har-dik25">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.kaggle.com/">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
 
 <br><br>
 
 <a href="https://github.com/Har-dik25">
-  <img src="https://komarev.com/ghpvc/?username=Har-dik25&label=PROFILE+VIEWS&color=00FFCC&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Har-dik25&label=PROFILE+VIEWS&color=00FFCC&style=for-the-badge" />
 </a>
+&nbsp;
 <a href="https://github.com/Har-dik25?tab=followers">
-  <img src="https://img.shields.io/github/followers/Har-dik25?label=FOLLOWERS&style=for-the-badge&color=8A2BE2" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/Har-dik25?label=FOLLOWERS&style=for-the-badge&color=8A2BE2" />
 </a>
-<a href="https://github.com/Har-dik25">
-  <img src="https://img.shields.io/github/stars/Har-dik25?label=TOTAL+STARS&style=for-the-badge&color=FF00FF" alt="GitHub Stars" />
-</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Oracle%20OCI-2%20Certs-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Kaggle-Top%2010%25-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 
 </div>
 
-<br><br>
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 👨‍💻 `whoami`
 
 ```python
 class HardikChoudhary:
     def __init__(self):
-        self.role = "AI & Data Engineering Student"
-        self.education = "B.Tech CSE (3rd Year) 🎓"
-        self.location = "India 🇮🇳"
-        self.experience = "Data Analyst Intern @ Futurense Technologies"
+        self.name          = "Hardik Choudhary"
+        self.role          = "AI & Data Engineer | Full-Stack Developer"
+        self.education     = "B.Tech CSE — Lovely Professional University (3rd Year) 🎓"
+        self.location      = "Punjab, India 🇮🇳"
+        self.experience    = "Data Analyst Intern @ Futurense Technologies"
         self.certifications = [
-            "Oracle OCI Generative AI Professional",
-            "Oracle OCI Data Science Professional"
+            "🟠 Oracle OCI Generative AI Professional",
+            "🟠 Oracle OCI Data Science Professional",
         ]
-        
-    def get_skills(self):
-        return [
-            "Machine Learning",
-            "Full-Stack Dev",
-            "Data Science",
-            "NLP & RAG Systems"
-        ]
-        
-    def get_status(self):
-        return "Seeking ML / SDE Internships 🌱"
 
-    def execute_vision(self):
-        return "Transforming complex datasets into actionable, real-world systems."
+    def get_skills(self):
+        return {
+            "AI/ML"       : ["RAG Systems", "LLMs", "Computer Vision", "NLP"],
+            "Backend"     : ["FastAPI", "Flask", "Node.js", "Docker"],
+            "Data"        : ["Pandas", "Power BI", "Streamlit", "SQL"],
+            "Cloud"       : ["AWS", "Azure", "Supabase"],
+        }
+
+    def highlight_reel(self):
+        return {
+            "🏅 Kaggle"       : "Top 10% out of 500+ global competitors",
+            "⭐ HackerRank"   : "5-Star Python & SQL",
+            "📈 ML Accuracy"  : "89% R² on 80,000+ record traffic dataset",
+            "📊 Intern Impact": "40% drop in reporting effort via automated dashboards",
+            "🔍 Data Quality" : "15% accuracy boost on 30K+ record pipeline",
+        }
+
+    def current_status(self):
+        return "Actively seeking ML / SDE / Data Internships — Summer 2026 🌱"
 
 user = HardikChoudhary()
-print(user.execute_vision())
+print(user.current_status())
+# >>> Actively seeking ML / SDE / Data Internships — Summer 2026 🌱
 ```
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 `achievements.sh`
 
 <div align="center">
 
-| 🎖️ | Achievement | Date |
-|:---:|---|:---:|
-| 🟠 | Oracle OCI Certified — **Generative AI Professional** | Sep '25 |
-| 🟠 | Oracle OCI Certified — **Data Science Professional** | Sep '25 |
-| 🥇 | Kaggle — **Top 10% out of 500+ competitors** | Mar '25 |
-| ⭐ | HackerRank — **5-Star Python & SQL** | Oct '25 |
-| 💼 | Data Analyst Intern — **Futurense Technologies** | Jun–Aug '25 |
-| 💡 | LeetCode — **80+ problems solved** | Jun '25 |
+<img src="https://github-profile-trophy.vercel.app/?username=Har-dik25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" />
+
+<br><br>
+
+| | Achievement | Proof | Date |
+|:---:|---|:---:|:---:|
+| 🟠 | Oracle OCI — **Generative AI Professional** | [Certificate ↗](https://www.linkedin.com/posts/hardik8_generative-ai-professional-activity-7388917134468431872-ipzL) | Sep '25 |
+| 🟠 | Oracle OCI — **Data Science Professional** | [Certificate ↗](https://www.linkedin.com/posts/hardik8_data-science-professional-activity-7389534104666476544-doIF) | Sep '25 |
+| 🥇 | Kaggle — **Top 10% / 500+ Competitors** | [Submission ↗](https://github.com/JXPJXT/Kaggle-Backpack-Prediction-Challenge) | Mar '25 |
+| ⭐ | HackerRank — **5-Star Python & SQL** | [Profile ↗](https://www.hackerrank.com/) | Oct '25 |
+| 💡 | LeetCode — **80+ Problems Solved** | [Profile ↗](https://leetcode.com/) | Jun '25 |
 
 </div>
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💼 `experience.log`
 
-### 📊 Data Analyst Intern — Futurense Technologies *(Jun '25 – Aug '25)*
+<table width="100%">
+<tr>
+<td>
 
-- 🧹 Cleaned and preprocessed **30K+ records** using Python, SQL & Excel — improving data accuracy by **15%**
-- 📈 Performed EDA and delivered actionable insights, **accelerating decision-making by 20%**
-- 📊 Built automated Power BI & Streamlit dashboards — **reduced reporting effort by 40%**
+### 📊 Data Analyst Intern — [Futurense Technologies](https://www.futurense.com/)
+**`Jun '25 – Aug '25` &nbsp;|&nbsp; Python • SQL • Power BI • Streamlit**
 
-<br>
+```
+✅  Cleaned & preprocessed 30,000+ records  →  +15% data accuracy
+✅  EDA-driven insights delivered            →  +20% faster decision-making  
+✅  Automated Power BI & Streamlit reports   →  -40% reporting effort
+```
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 `tech_stack.sh`
 
 <div align="center">
-  <p><i>High-Res dynamically rendered skill icons</i></p>
-  
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,c,cpp&theme=dark" alt="Code Languages" />
-  <br><br>
-  
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikit,opencv,react,nextjs,nodejs,express&theme=dark" alt="Libraries and Frameworks" />
-  <br><br>
-  
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,mysql,postgres,mongodb,docker,git,github&theme=dark" alt="Tools and Databases" />
-</div>
+
+**// Languages**
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,c,cpp&theme=dark" />
 
 <br><br>
+
+**// AI · ML · Data**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikit,opencv&theme=dark" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/LangChain-00FFCC?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square" />
+<img src="https://img.shields.io/badge/YOLOv5-00FFCC?style=flat-square" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+
+<br><br>
+
+**// Backend · Infra**
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,docker,kubernetes,aws,azure&theme=dark" />
+
+<br><br>
+
+**// Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## ⚡ `featured_projects.exe`
 
 ### ⚖️ [LegalMind RAG](https://github.com/Har-dik25/LegalMindRag)
 ![Flagship](https://img.shields.io/badge/🥇_FLAGSHIP-00FFCC?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00FFCC?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-*AI-Powered Legal Document Intelligence Platform*
+> *AI-Powered Legal Document Intelligence Platform — Dual RAG Engine*
 
-**Tech:** Python • LangChain • Flask • React
-- 🧠 Dual RAG engine (LangChain + Pure Python)
-- ⚡ Real-time Q&A with source citations
-- 🎨 Premium dark-mode UI with glassmorphism
+| Feature | Detail |
+|---|---|
+| 🧠 Dual RAG Engine | LangChain pipeline + Pure Python fallback — zero single-point-of-failure |
+| ⚡ Grounded Q&A | Real-time answers with document-level source citations |
+| 🎨 UI Design | Premium dark-mode glassmorphism interface |
 
 <a href="https://github.com/Har-dik25/LegalMindRag">
-  <img src="https://img.shields.io/badge/Explore_Repo-00FFCC?style=flat-square&logo=github&logoColor=black" alt="Explore Repo" />
+  <img src="https://img.shields.io/badge/View_Repo-00FFCC?style=flat-square&logo=github&logoColor=black" />
 </a>
 
 ---
 
 ### 🚦 [AI Traffic Congestion System](https://github.com/Har-dik25/AI-Traffic-Congestion-Analysis)
 ![Deep Learning](https://img.shields.io/badge/🧠_DEEP_LEARNING-FF00FF?style=for-the-badge)
+![89% R²](https://img.shields.io/badge/R²-89%25-00FFCC?style=flat-square)
+![80K Records](https://img.shields.io/badge/Dataset-80K%2B_Records-FF00FF?style=flat-square)
 
-*Smart Traffic Management with Computer Vision — **89% R²***
+> *Real-Time Congestion Prediction — Cloud-Deployed on AWS*
 
-**Tech:** Python • OpenCV • TensorFlow • Flask • Power BI • AWS
-- 🗄️ Ingested & merged **80K+ traffic records** from multiple real-world sources
-- 🎯 ML models achieving **89% R²** for congestion prediction accuracy
-- ☁️ Real-time forecasting on AWS with Flask backend + Power BI dashboards
+| Feature | Detail |
+|---|---|
+| 🗄️ Data Pipeline | Ingested & cleaned **80,000+ records** from heterogeneous sources |
+| 📐 ML Performance | **89% R²** — best-in-class congestion prediction accuracy |
+| ☁️ Cloud Deployment | AWS-hosted Flask backend + real-time Power BI dashboards |
 
 <a href="https://github.com/Har-dik25/AI-Traffic-Congestion-Analysis">
-  <img src="https://img.shields.io/badge/Explore_Repo-FF00FF?style=flat-square&logo=github&logoColor=black" alt="Explore Repo" />
+  <img src="https://img.shields.io/badge/View_Repo-FF00FF?style=flat-square&logo=github&logoColor=black" />
 </a>
 
 ---
 
 ### 🏢 [Scalable HRMS Backend](https://github.com/Har-dik25/hrms-frontend)
 ![Full Stack](https://img.shields.io/badge/⭐_FULL_STACK-FF00FF?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-*Enterprise-Grade Human Resource Management System*
+> *Enterprise-Grade Async HR Platform — RBAC + Automated Pipelines*
 
-**Tech:** Python • FastAPI • Supabase • SQL • Docker
-- ⚡ Async FastAPI backend handling concurrent employee data operations
-- 🔐 Role-based authentication (RBAC) with complex SQL queries via Supabase
-- 📤 Automated CSV export pipelines and real-time leave status tracking
+| Feature | Detail |
+|---|---|
+| ⚡ Async Architecture | FastAPI handles concurrent employee ops with non-blocking I/O |
+| 🔐 RBAC Security | Role-based access + complex Supabase SQL policies |
+| 📤 Automation | CSV export pipelines + real-time leave tracking |
 
 <a href="https://github.com/Har-dik25/hrms-frontend">
-  <img src="https://img.shields.io/badge/Frontend-FF00FF?style=flat-square&logo=github" alt="Frontend Repo" />
+  <img src="https://img.shields.io/badge/Frontend-FF00FF?style=flat-square&logo=github" />
 </a>
+&nbsp;
 <a href="https://github.com/Har-dik25/hrms-backend">
-  <img src="https://img.shields.io/badge/Backend-8A2BE2?style=flat-square&logo=github" alt="Backend Repo" />
+  <img src="https://img.shields.io/badge/Backend-8A2BE2?style=flat-square&logo=github" />
 </a>
 
 ---
 
 ### 🎒 [Backpack Price Prediction — Kaggle](https://github.com/JXPJXT/Kaggle-Backpack-Prediction-Challenge)
 ![Kaggle](https://img.shields.io/badge/🏅_TOP_10%25_KAGGLE-00FFCC?style=for-the-badge)
+![Top 10%](https://img.shields.io/badge/Leaderboard-Top_10%25_of_500%2B-20BEFF?style=flat-square&logo=kaggle)
 
-*Competitive ML — Top 10% out of 500+ Global Participants*
+> *Competitive ML — Global Top 10% out of 500+ Participants*
 
-**Tech:** Python • Scikit-Learn • XGBoost
-- 🛍️ Preprocessed **10K+ e-commerce records** with feature engineering pipeline
-- 🌲 Applied XGBoost regression with hyperparameter tuning
-- 🏆 Ranked **top 10% among 500+ Kaggle competitors**
+| Feature | Detail |
+|---|---|
+| 🛍️ Feature Engineering | 10,000+ e-commerce records — full preprocessing pipeline |
+| 🌲 Modelling | XGBoost regression with hyperparameter tuning + SHAP explainability |
+| 🏆 Result | **Top 10% / 500+ competitors** on the global Kaggle leaderboard |
 
 <a href="https://github.com/JXPJXT/Kaggle-Backpack-Prediction-Challenge">
-  <img src="https://img.shields.io/badge/Explore_Repo-00FFCC?style=flat-square&logo=github&logoColor=black" alt="Explore Repo" />
+  <img src="https://img.shields.io/badge/View_Repo-00FFCC?style=flat-square&logo=github&logoColor=black" />
 </a>
 
 ---
 
 ### 📸 [OCR Studio](https://github.com/Har-dik25/OCR-Studio-Offline-Image-to-JSON-Web-App)
-![AI Powered](https://img.shields.io/badge/🤖_AI_POWERED-00FFCC?style=for-the-badge)
+![Privacy First](https://img.shields.io/badge/🤖_AI_POWERED-00FFCC?style=for-the-badge)
+![Offline](https://img.shields.io/badge/Mode-100%25_Offline-8A2BE2?style=flat-square)
 
-*Offline Image-to-JSON Document Extraction*
+> *Fully Offline Image → Structured JSON Extraction — Zero Cloud Dependency*
 
-**Tech:** Python • Tesseract OCR • Flask • JS
-- 🖼️ Image to structured JSON conversion
-- 🔒 Fully offline — strictly privacy-first
-- ⚡ Instant extraction with high accuracy
+- 🖼️ Converts scanned images to structured JSON — single click, no internet
+- 🔒 Privacy-first architecture — no data ever leaves your machine
+- ⚡ High-accuracy Tesseract OCR with structured output formatting
 
 <a href="https://github.com/Har-dik25/OCR-Studio-Offline-Image-to-JSON-Web-App">
-  <img src="https://img.shields.io/badge/Explore_Repo-00FFCC?style=flat-square&logo=github&logoColor=black" alt="Explore Repo" />
+  <img src="https://img.shields.io/badge/View_Repo-00FFCC?style=flat-square&logo=github&logoColor=black" />
 </a>
 
-<br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎯 `roadmap_2026.yml`
 
 ```yaml
-2026_Goals:
-  - [ ] Build & deploy 3 production AI/LLM applications
-  - [ ] Land ML Engineering role at a top tech company
-  - [ ] Publish research paper in AI/ML domain
+status: 🟢 Actively seeking internship — Summer 2026
+
+goals:
+  - [ ] Build & deploy 3 production AI / LLM applications
+  - [ ] Land ML Engineering / SDE role at a top-tier company
+  - [ ] Publish a research paper in the AI/ML domain
   - [ ] Earn AWS ML Specialty Certification
   - [ ] Contribute to 5+ major open-source AI projects
-  
-Current_Focus:
-  Deep_Learning:
-    - Advanced RAG Systems & Vector Databases
-    - HuggingFace & Fine-tuning Local LLMs
-  Engineering:
-    - MLOps (Docker, Kubernetes for ML)
+
+currently_deep_diving:
+  rag_and_llms:
+    - Advanced RAG architectures & vector databases (Pinecone, Weaviate)
+    - Fine-tuning LLMs with HuggingFace PEFT / LoRA
+    - Agentic AI pipelines — LangGraph, CrewAI
+  mlops:
+    - Docker + Kubernetes for ML workload orchestration
+    - AWS SageMaker & Azure ML pipelines
+    - Model monitoring and drift detection in production
 ```
 
-<br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 `github_analytics.json`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Har-dik25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Har-dik25&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+<div align="center">
 
-  <br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Har-dik25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Har-dik25&theme=tokyonight&hide_border=true" width="49%" />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Har-dik25&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="98%" />
-  
-  <br><br>
+<br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Har-dik25&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" width="48%" />
-  
-  <br><br>
-  
-  <img src="https://raw.githubusercontent.com/Har-dik25/Har-dik25/output/dist/github-snake-dark.svg" alt="Contribution Snake" width="100%" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Har-dik25&theme=tokyo-night&hide_border=true&area=true" width="98%" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Har-dik25&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=html,css" width="42%" />
 
 <br><br>
 
+<img src="https://raw.githubusercontent.com/Har-dik25/Har-dik25/output/dist/github-snake-dark.svg" width="100%" alt="Contribution Snake" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🌐 `connect_with_me.sh`
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hardik8/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:hardikkumar2583@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Har-dik25">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+<div align="center">
 
-  <br><br>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="Footer Wave" />
-</p>
+<a href="https://www.linkedin.com/in/hardik8/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:hardikkumar2583@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/Har-dik25">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+> 💬 *Open to internships, collaborations, and new ideas — feel free to reach out anytime.*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+
+</div>
