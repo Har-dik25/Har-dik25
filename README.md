@@ -42,9 +42,9 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/></div>
 
-## 👨‍💻 `whoami`
+## 👤 `whoami`
 
 ```python
 class HardikChoudhary:
@@ -84,7 +84,7 @@ print(user.current_status())
 # >>> Actively seeking ML / SDE / Data Internships — Summer 2026 🌱
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/></div>
 
 ## 🏆 `achievements.sh`
 
@@ -104,7 +104,7 @@ print(user.current_status())
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/></div>
 
 ## 💼 `experience.log`
 
@@ -117,7 +117,7 @@ print(user.current_status())
 ✅  Automated Power BI & Streamlit reports   →  -40% reporting effort
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/></div>
 
 ## 🚀 `tech_stack.sh`
 
@@ -156,7 +156,7 @@ print(user.current_status())
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/></div>
 
 ## ⚡ `featured_projects.exe`
 
@@ -255,7 +255,7 @@ print(user.current_status())
   <img src="https://img.shields.io/badge/View_Repo-00FFCC?style=flat-square&amp;logo=github&amp;logoColor=black" />
 </a>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/></div>
 
 ## 🎯 `roadmap_2026.yml`
 
@@ -280,7 +280,7 @@ currently_deep_diving:
     - Model monitoring and drift detection in production
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/></div>
 
 ## 📊 `github_analytics.json`
 
@@ -301,7 +301,7 @@ currently_deep_diving:
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/></div>
 
 ## 🌐 `connect_with_me.sh`
 
