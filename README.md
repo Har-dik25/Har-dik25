@@ -1,42 +1,42 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=HARDIK%20CHOUDHARY&fontSize=52&fontAlignY=36&desc=AI%20%26%20Data%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Oracle%20OCI%20Certified&descSize=17&descAlignY=56&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=260&amp;section=header&amp;text=HARDIK%20CHOUDHARY&amp;fontSize=52&amp;fontAlignY=36&amp;desc=AI%20%26%20Data%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Oracle%20OCI%20Certified&amp;descSize=17&amp;descAlignY=56&amp;animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=850&height=60&lines=%3E_+%24+Oracle+OCI+Certified+%7C+Gen+AI+%26+Data+Science+Pro;%3E_+%24+Data+Analyst+Intern+%40+Futurense+Technologies;%3E_+%24+Top+10%25+Kaggle+%7C+5%E2%98%85+HackerRank+Python+%26+SQL;%3E_+%24+Building+RAG+Systems+and+Intelligent+Pipelines;%3E_+%24+Open+to+ML+%7C+SDE+%7C+Data+Internships+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=00FFCC&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=60&amp;lines=%3E_+%24+Oracle+OCI+Certified+%7C+Gen+AI+%26+Data+Science+Pro;%3E_+%24+Data+Analyst+Intern+%40+Futurense+Technologies;%3E_+%24+Top+10%25+Kaggle+%7C+5%E2%98%85+HackerRank+Python+%26+SQL;%3E_+%24+Building+RAG+Systems+and+Intelligent+Pipelines;%3E_+%24+Open+to+ML+%7C+SDE+%7C+Data+Internships+%F0%9F%8C%B1" alt="Typing SVG" />
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/hardik8/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:hardikkumar2583@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
 </a>
 &nbsp;
 <a href="https://github.com/Har-dik25">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
 </a>
 &nbsp;
 <a href="https://www.kaggle.com/">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" />
 </a>
 
 <br><br>
 
 <a href="https://github.com/Har-dik25">
-  <img src="https://komarev.com/ghpvc/?username=Har-dik25&label=PROFILE+VIEWS&color=00FFCC&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Har-dik25&amp;label=PROFILE+VIEWS&amp;color=00FFCC&amp;style=for-the-badge" />
 </a>
 &nbsp;
 <a href="https://github.com/Har-dik25?tab=followers">
-  <img src="https://img.shields.io/github/followers/Har-dik25?label=FOLLOWERS&style=for-the-badge&color=8A2BE2" />
+  <img src="https://img.shields.io/github/followers/Har-dik25?label=FOLLOWERS&amp;style=for-the-badge&amp;color=8A2BE2" />
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Oracle%20OCI-2%20Certs-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle%20OCI-2%20Certs-F80000?style=for-the-badge&amp;logo=oracle&amp;logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Kaggle-Top%2010%25-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+<img src="https://img.shields.io/badge/Kaggle-Top%2010%25-20BEFF?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" />
 
 </div>
 
@@ -90,7 +90,7 @@ print(user.current_status())
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Har-dik25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Har-dik25&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4&amp;row=1&amp;column=7" width="100%" />
 
 <br><br>
 
@@ -125,34 +125,34 @@ print(user.current_status())
 
 **// Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,c,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,c,cpp&amp;theme=dark" />
 
 <br><br>
 
 **// AI · ML · Data**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikit,opencv&theme=dark" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikit,opencv&amp;theme=dark" />
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/LangChain-00FFCC?style=flat-square&logoColor=black" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/LangChain-00FFCC?style=flat-square&amp;logoColor=black" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&amp;logo=huggingface&amp;logoColor=black" />
 <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square" />
 <img src="https://img.shields.io/badge/YOLOv5-00FFCC?style=flat-square" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&amp;logo=powerbi&amp;logoColor=black" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&amp;logo=streamlit&amp;logoColor=white" />
 
 <br><br>
 
 **// Backend · Infra**
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,docker,kubernetes,aws,azure&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,docker,kubernetes,aws,azure&amp;theme=dark" />
 
 <br><br>
 
 **// Databases**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&amp;theme=dark" />
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&amp;logo=supabase&amp;logoColor=black" />
 
 </div>
 
@@ -176,7 +176,7 @@ print(user.current_status())
 | 🎨 UI Design | Premium dark-mode glassmorphism interface |
 
 <a href="https://github.com/Har-dik25/LegalMindRag">
-  <img src="https://img.shields.io/badge/View_Repo-00FFCC?style=flat-square&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/View_Repo-00FFCC?style=flat-square&amp;logo=github&amp;logoColor=black" />
 </a>
 
 ---
@@ -195,7 +195,7 @@ print(user.current_status())
 | ☁️ Cloud Deployment | AWS-hosted Flask backend + real-time Power BI dashboards |
 
 <a href="https://github.com/Har-dik25/AI-Traffic-Congestion-Analysis">
-  <img src="https://img.shields.io/badge/View_Repo-FF00FF?style=flat-square&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/View_Repo-FF00FF?style=flat-square&amp;logo=github&amp;logoColor=black" />
 </a>
 
 ---
@@ -214,11 +214,11 @@ print(user.current_status())
 | 📤 Automation | CSV export pipelines + real-time leave tracking |
 
 <a href="https://github.com/Har-dik25/hrms-frontend">
-  <img src="https://img.shields.io/badge/Frontend-FF00FF?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Frontend-FF00FF?style=flat-square&amp;logo=github" />
 </a>
 &nbsp;
 <a href="https://github.com/Har-dik25/hrms-backend">
-  <img src="https://img.shields.io/badge/Backend-8A2BE2?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Backend-8A2BE2?style=flat-square&amp;logo=github" />
 </a>
 
 ---
@@ -236,7 +236,7 @@ print(user.current_status())
 | 🏆 Result | **Top 10% / 500+ competitors** on the global Kaggle leaderboard |
 
 <a href="https://github.com/JXPJXT/Kaggle-Backpack-Prediction-Challenge">
-  <img src="https://img.shields.io/badge/View_Repo-00FFCC?style=flat-square&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/View_Repo-00FFCC?style=flat-square&amp;logo=github&amp;logoColor=black" />
 </a>
 
 ---
@@ -252,7 +252,7 @@ print(user.current_status())
 - ⚡ High-accuracy Tesseract OCR with structured output formatting
 
 <a href="https://github.com/Har-dik25/OCR-Studio-Offline-Image-to-JSON-Web-App">
-  <img src="https://img.shields.io/badge/View_Repo-00FFCC?style=flat-square&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/View_Repo-00FFCC?style=flat-square&amp;logo=github&amp;logoColor=black" />
 </a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -286,16 +286,16 @@ currently_deep_diving:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Har-dik25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Har-dik25&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Har-dik25&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true&amp;rank_icon=github" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Har-dik25&amp;theme=tokyonight&amp;hide_border=true" width="49%" />
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Har-dik25&theme=tokyo-night&hide_border=true&area=true" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Har-dik25&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" width="98%" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Har-dik25&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=html,css" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Har-dik25&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=10&amp;hide=html,css" width="42%" />
 
 <br><br>
 
@@ -308,15 +308,15 @@ currently_deep_diving:
 <div align="center">
 
 <a href="https://www.linkedin.com/in/hardik8/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:hardikkumar2583@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
 </a>
 &nbsp;
 <a href="https://github.com/Har-dik25">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
 </a>
 
 <br><br>
@@ -325,6 +325,6 @@ currently_deep_diving:
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer" width="100%" />
 
 </div>
