@@ -169,6 +169,10 @@ Current_Focus:
   <br><br>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Har-dik25&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" width="48%" />
+  
+  <br><br>
+  
+  <img src="https://raw.githubusercontent.com/Har-dik25/Har-dik25/output/dist/github-snake-dark.svg" alt="Contribution Snake" width="100%" />
 </p>
 
 <br><br>
