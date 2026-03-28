@@ -1,28 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=260&amp;section=header&amp;text=HARDIK%20CHOUDHARY&amp;fontSize=52&amp;fontAlignY=36&amp;desc=AI%20%26%20Data%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Oracle%20OCI%20Certified&amp;descSize=17&amp;descAlignY=56&amp;animation=fadeIn" width="100%"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=00FFCC&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=60&amp;lines=%3E_+%24+Oracle+OCI+Certified+%7C+Gen+AI+%26+Data+Science+Pro;%3E_+%24+Data+Analyst+Intern+%40+Futurense+Technologies;%3E_+%24+Top+10%25+Kaggle+%7C+5%E2%98%85+HackerRank+Python+%26+SQL;%3E_+%24+Building+RAG+Systems+and+Intelligent+Pipelines;%3E_+%24+Open+to+ML+%7C+SDE+%7C+Data+Internships+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=HARDIK%20CHOUDHARY&fontSize=50&fontAlignY=35&desc=AI%20and%20Data%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=55" width="100%"/>
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/hardik8/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:hardikkumar2583@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/Har-dik25">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.kaggle.com/">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&height=60&lines=%3E_+$+Building+Intelligent+Systems+with+AI+and+Data;%3E_+$+Turning+Complex+Algorithms+into+Real-World+Solutions;%3E_+$+Constantly+Learning,+Always+Coding" alt="Typing SVG" />
 
 <br><br>
 
@@ -40,44 +22,30 @@
 
 </div>
 
----
-
-<div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/></div>
+<br><br>
 
 ## 👤 `whoami`
 
 ```python
 class HardikChoudhary:
     def __init__(self):
-        self.name          = "Hardik Choudhary"
-        self.role          = "AI & Data Engineer | Full-Stack Developer"
-        self.education     = "B.Tech CSE — Lovely Professional University (3rd Year) 🎓"
-        self.location      = "Punjab, India 🇮🇳"
-        self.experience    = "Data Analyst Intern @ Futurense Technologies"
-        self.certifications = [
-            "🟠 Oracle OCI Generative AI Professional",
-            "🟠 Oracle OCI Data Science Professional",
-        ]
-
+        self.role = "AI & Data Engineering Student"
+        self.education = "B.Tech (3rd Year) 🎓"
+        self.location = "India 🇮🇳"
+        
     def get_skills(self):
-        return {
-            "AI/ML"       : ["RAG Systems", "LLMs", "Computer Vision", "NLP"],
-            "Backend"     : ["FastAPI", "Flask", "Node.js", "Docker"],
-            "Data"        : ["Pandas", "Power BI", "Streamlit", "SQL"],
-            "Cloud"       : ["AWS", "Azure", "Supabase"],
-        }
+        return [
+            "Machine Learning",
+            "Full-Stack Dev",
+            "Data Science",
+            "NLP & RAG Systems"
+        ]
+        
+    def get_status(self):
+        return "Seeking ML Internships 🌱"
 
-    def highlight_reel(self):
-        return {
-            "🏅 Kaggle"       : "Top 10% out of 500+ global competitors",
-            "⭐ HackerRank"   : "5-Star Python & SQL",
-            "📈 ML Accuracy"  : "89% R² on 80,000+ record traffic dataset",
-            "📊 Intern Impact": "40% drop in reporting effort via automated dashboards",
-            "🔍 Data Quality" : "15% accuracy boost on 30K+ record pipeline",
-        }
-
-    def current_status(self):
-        return "Actively seeking ML / SDE / Data Internships — Summer 2026 🌱"
+    def execute_vision(self):
+        return "Transforming complex datasets into actionable, real-world systems."
 
 user = HardikChoudhary()
 print(user.current_status())
@@ -117,63 +85,35 @@ print(user.current_status())
 ✅  Automated Power BI & Streamlit reports   →  -40% reporting effort
 ```
 
-<div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/></div>
+<br>
 
 ## 🚀 `tech_stack.sh`
 
 <div align="center">
-
-**// Languages**
-
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,c,cpp&amp;theme=dark" />
-
-<br><br>
-
-**// AI · ML · Data**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikit,opencv&amp;theme=dark" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/LangChain-00FFCC?style=flat-square&amp;logoColor=black" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&amp;logo=huggingface&amp;logoColor=black" />
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square" />
-<img src="https://img.shields.io/badge/YOLOv5-00FFCC?style=flat-square" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&amp;logo=powerbi&amp;logoColor=black" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&amp;logo=streamlit&amp;logoColor=white" />
-
-<br><br>
-
-**// Backend · Infra**
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,docker,kubernetes,aws,azure&amp;theme=dark" />
-
-<br><br>
-
-**// Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&amp;theme=dark" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&amp;logo=supabase&amp;logoColor=black" />
-
+  <p><i>High-Res dynamically rendered skill icons</i></p>
+  
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,c,cpp&theme=dark" alt="Code Languages" />
+  <br><br>
+  
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikit,opencv,react,nextjs,nodejs,express&theme=dark" alt="Libraries and Frameworks" />
+  <br><br>
+  
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,mysql,postgres,mongodb,docker,git,github&theme=dark" alt="Tools and Databases" />
 </div>
 
-<div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/></div>
+<br><br>
 
 ## ⚡ `featured_projects.exe`
 
 ### ⚖️ [LegalMind RAG](https://github.com/Har-dik25/LegalMindRag)
 ![Flagship](https://img.shields.io/badge/🥇_FLAGSHIP-00FFCC?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-00FFCC?style=flat-square)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-> *AI-Powered Legal Document Intelligence Platform — Dual RAG Engine*
+*AI-Powered Legal Document Intelligence Platform*
 
-| Feature | Detail |
-|---|---|
-| 🧠 Dual RAG Engine | LangChain pipeline + Pure Python fallback — zero single-point-of-failure |
-| ⚡ Grounded Q&amp;A | Real-time answers with document-level source citations |
-| 🎨 UI Design | Premium dark-mode glassmorphism interface |
+**Tech:** Python • LangChain • Flask • React
+- 🧠 Dual RAG engine (LangChain + Pure Python)
+- ⚡ Real-time Q&A with source citations
+- 🎨 Premium dark-mode UI with glassmorphism
 
 <a href="https://github.com/Har-dik25/LegalMindRag">
   <img src="https://img.shields.io/badge/View_Repo-00FFCC?style=flat-square&amp;logo=github&amp;logoColor=black" />
@@ -202,16 +142,13 @@ print(user.current_status())
 
 ### 🏢 [Scalable HRMS Backend](https://github.com/Har-dik25/hrms-frontend)
 ![Full Stack](https://img.shields.io/badge/⭐_FULL_STACK-FF00FF?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-> *Enterprise-Grade Async HR Platform — RBAC + Automated Pipelines*
+*Full-Stack Human Resource Management System*
 
-| Feature | Detail |
-|---|---|
-| ⚡ Async Architecture | FastAPI handles concurrent employee ops with non-blocking I/O |
-| 🔐 RBAC Security | Role-based access + complex Supabase SQL policies |
-| 📤 Automation | CSV export pipelines + real-time leave tracking |
+**Tech:** React • Node.js • Express • MongoDB
+- 👥 Complete employee management dashboard
+- 📊 Analytics with dynamic stat cards
+- 🔐 Role-based authentication system
 
 <a href="https://github.com/Har-dik25/hrms-frontend">
   <img src="https://img.shields.io/badge/Frontend-FF00FF?style=flat-square&amp;logo=github" />
@@ -242,45 +179,56 @@ print(user.current_status())
 ---
 
 ### 📸 [OCR Studio](https://github.com/Har-dik25/OCR-Studio-Offline-Image-to-JSON-Web-App)
-![Privacy First](https://img.shields.io/badge/🤖_AI_POWERED-00FFCC?style=for-the-badge)
-![Offline](https://img.shields.io/badge/Mode-100%25_Offline-8A2BE2?style=flat-square)
+![AI Powered](https://img.shields.io/badge/🤖_AI_POWERED-00FFCC?style=for-the-badge)
 
-> *Fully Offline Image → Structured JSON Extraction — Zero Cloud Dependency*
+*Offline Image-to-JSON Document Extraction*
 
-- 🖼️ Converts scanned images to structured JSON — single click, no internet
-- 🔒 Privacy-first architecture — no data ever leaves your machine
-- ⚡ High-accuracy Tesseract OCR with structured output formatting
+**Tech:** Python • Tesseract OCR • Flask • JS
+- 🖼️ Image to structured JSON conversion
+- 🔒 Fully offline — strictly privacy-first
+- ⚡ Instant extraction with high accuracy
 
 <a href="https://github.com/Har-dik25/OCR-Studio-Offline-Image-to-JSON-Web-App">
   <img src="https://img.shields.io/badge/View_Repo-00FFCC?style=flat-square&amp;logo=github&amp;logoColor=black" />
 </a>
 
-<div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/></div>
+---
+
+### 🚦 [AI Traffic Analysis](https://github.com/Har-dik25/AI-Traffic-Congestion-Analysis)
+![Deep Learning](https://img.shields.io/badge/🧠_DEEP_LEARNING-FF00FF?style=for-the-badge)
+
+*Smart Traffic Management with Computer Vision*
+
+**Tech:** Python • OpenCV • TensorFlow • YOLOv5
+- 🎥 Real-time vehicle detection & tracking
+- 🧠 Congestion prediction algorithm
+- 🗺️ Dynamic heat map generation
+
+<a href="https://github.com/Har-dik25/AI-Traffic-Congestion-Analysis">
+  <img src="https://img.shields.io/badge/Explore_Repo-FF00FF?style=flat-square&logo=github&logoColor=black" alt="Explore Repo" />
+</a>
+
+<br><br>
 
 ## 🎯 `roadmap_2026.yml`
 
 ```yaml
-status: 🟢 Actively seeking internship — Summer 2026
-
-goals:
-  - [ ] Build & deploy 3 production AI / LLM applications
-  - [ ] Land ML Engineering / SDE role at a top-tier company
-  - [ ] Publish a research paper in the AI/ML domain
-  - [ ] Earn AWS ML Specialty Certification
-  - [ ] Contribute to 5+ major open-source AI projects
-
-currently_deep_diving:
-  rag_and_llms:
-    - Advanced RAG architectures & vector databases (Pinecone, Weaviate)
-    - Fine-tuning LLMs with HuggingFace PEFT / LoRA
-    - Agentic AI pipelines — LangGraph, CrewAI
-  mlops:
-    - Docker + Kubernetes for ML workload orchestration
-    - AWS SageMaker & Azure ML pipelines
-    - Model monitoring and drift detection in production
+2026_Goals:
+  -  [ ] Build & deploy 3 production AI/LLM applications
+  -  [ ] Land ML Engineering role at a top tech company
+  -  [ ] Publish research paper in AI/ML domain
+  -  [ ] Earn AWS ML Specialty Certification
+  -  [ ] Contribute to 5+ major open-source AI projects
+  
+Current_Focus:
+  Deep_Learning:
+    - Advanced RAG Systems & Vector Databases
+    - HuggingFace & Fine-tuning Local LLMs
+  Engineering:
+    - MLOps (Docker, Kubernetes for ML)
 ```
 
-<div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/></div>
+<br><br>
 
 ## 📊 `github_analytics.json`
 
@@ -289,42 +237,35 @@ currently_deep_diving:
 <img src="https://github-readme-stats.vercel.app/api?username=Har-dik25&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true&amp;rank_icon=github" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Har-dik25&amp;theme=tokyonight&amp;hide_border=true" width="49%" />
 
-<br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Har-dik25&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="98%" />
+  
+  <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Har-dik25&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" width="98%" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Har-dik25&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=10&amp;hide=html,css" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Har-dik25&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" width="48%" />
+  
+  <br><br>
+  
+  <img src="https://raw.githubusercontent.com/Har-dik25/Har-dik25/output/dist/github-snake-dark.svg" alt="Contribution Snake" width="100%" />
+</p>
 
 <br><br>
-
-</div>
-
-<div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/></div>
 
 ## 🌐 `connect_with_me.sh`
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/hardik2583/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:hardikkumar2583@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Har-dik25">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 
-<a href="https://www.linkedin.com/in/hardik8/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:hardikkumar2583@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/Har-dik25">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
-</a>
-
-<br><br>
-
-> 💬 *Open to internships, collaborations, and new ideas — feel free to reach out anytime.*
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer" width="100%" />
-
-</div>
+  <br><br>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="Footer Wave" />
+</p>
