@@ -1,36 +1,33 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 🌊 ANIMATED HEADER — auto-switches between dark & light mode         -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<!-- Dark mode header -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Hardik%20Choudhary&fontSize=42&fontColor=e6edf3&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Engineer%20%7C%20Building%20Intelligent%20Systems&descSize=16&descColor=8b949e&descAlignY=55" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Hardik%20Choudhary&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Engineer%20%7C%20Building%20Intelligent%20Systems&descSize=16&descColor=f0f0f0&descAlignY=55" />
-  <img width="100%" alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Hardik%20Choudhary&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Engineer%20%7C%20Building%20Intelligent%20Systems&descSize=16&descColor=f0f0f0&descAlignY=55" />
-</picture>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🌊  WAVING HEADER — capsule-render (works in light & dark)    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- Animated typing effect -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%A4%96+Machine+Learning+%7C+RAG+Systems+%7C+NLP;%F0%9F%9A%80+Full-Stack+Dev+%7C+MLOps+%7C+Cloud;%F0%9F%8E%AF+Turning+Data+Into+Decisions" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hardik%20Choudhary&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Engineer%20%E2%80%A2%20Building%20Intelligent%20Systems&descSize=18&descColor=ffffff&descAlignY=52" alt="Header"/>
 
 <br/>
 
-<!-- Social badges row -->
+<!-- Animated typing effect — separated with spacing -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&repeat=true&width=650&height=45&lines=%F0%9F%A4%96+Machine+Learning+%7C+RAG+Systems+%7C+NLP;%F0%9F%9A%80+Full-Stack+Dev+%7C+MLOps+%7C+Cloud+Architecture;%F0%9F%8E%AF+Turning+Data+Into+Intelligent+Decisions" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<!-- Social badges row — well spaced below typing -->
 <a href="mailto:hardikkumar2583@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>&nbsp;
+</a>
 <a href="https://www.linkedin.com/in/hardik2583/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>&nbsp;
+</a>
 <a href="https://github.com/Har-dik25">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>&nbsp;
+</a>
 <a href="https://www.kaggle.com/hardik2583">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-</a>&nbsp;
+</a>
 <a href="https://leetcode.com/u/hardik2583/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
@@ -39,37 +36,34 @@
 
 <!-- Profile metrics -->
 <img src="https://komarev.com/ghpvc/?username=Har-dik25&label=Profile%20Views&color=6e40c9&style=for-the-badge" alt="Profile Views" />
-&nbsp;
 <img src="https://img.shields.io/github/followers/Har-dik25?label=Followers&style=for-the-badge&color=236ad3&labelColor=1155ba" alt="Followers" />
-&nbsp;
 <img src="https://img.shields.io/github/stars/Har-dik25?label=Stars&style=for-the-badge&color=daa520&labelColor=b8860b" alt="Stars" />
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 🏆 GITHUB TROPHIES                                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🏆 GITHUB TROPHIES                                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
+
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Har-dik25&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Har-dik25&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Har-dik25&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-</picture>
+<img src="https://github-profile-trophy.vercel.app/?username=Har-dik25&theme=discord&no-frame=true&no-bg=true&column=-1&margin-w=10" alt="GitHub Trophies" width="100%"/>
+
+<br/>
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 🧠 ABOUT ME                                                           -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🧠 ABOUT ME                                                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
 <h2>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;About Me
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp; About Me
 </h2>
 </div>
 
@@ -121,9 +115,9 @@ const hardik = {
 </tr>
 </table>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 💻 TECH STACK                                                         -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ⚡ TECH STACK                                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -141,12 +135,13 @@ const hardik = {
 #### 🧠 AI / ML
 <p>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="ML Frameworks" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/LangChain-1E4D92?style=for-the-badge&logoColor=white" height="30" alt="LangChain"/>
-<img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge" height="30" alt="HuggingFace"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="30" alt="OpenCV"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="30" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="30" alt="NumPy"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/LangChain-1E4D92?style=for-the-badge&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge" alt="HuggingFace"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 </p>
 
 #### 🌐 Web & Backend
@@ -157,10 +152,12 @@ const hardik = {
 #### 🗄️ Databases & Data
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" alt="Databases" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge" height="30" alt="ChromaDB"/>
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" height="30" alt="Supabase"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30" alt="Power BI"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge" alt="ChromaDB"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark"/>
 </p>
 
 #### ☁️ DevOps & Cloud
@@ -170,9 +167,9 @@ const hardik = {
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 🚀 FEATURED PROJECTS                                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🚀 FEATURED PROJECTS                                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -182,22 +179,22 @@ const hardik = {
 
 <div align="center">
 
+<!-- Row 1 -->
 <a href="https://github.com/Har-dik25/LegalMindRag">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Har-dik25&repo=LegalMindRag&theme=tokyonight&hide_border=true&border_radius=15&show_owner=true&description_lines_count=2" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Har-dik25&repo=LegalMindRag&theme=tokyonight&hide_border=true&border_radius=15" width="400" />
 </a>
-&nbsp;&nbsp;
 <a href="https://github.com/Har-dik25/AI-Traffic-Congestion-Analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Har-dik25&repo=AI-Traffic-Congestion-Analysis&theme=tokyonight&hide_border=true&border_radius=15&show_owner=true&description_lines_count=2" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Har-dik25&repo=AI-Traffic-Congestion-Analysis&theme=tokyonight&hide_border=true&border_radius=15" width="400" />
 </a>
 
 <br/><br/>
 
+<!-- Row 2 -->
 <a href="https://github.com/Har-dik25/hrms-frontend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Har-dik25&repo=hrms-frontend&theme=tokyonight&hide_border=true&border_radius=15&show_owner=true&description_lines_count=2" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Har-dik25&repo=hrms-frontend&theme=tokyonight&hide_border=true&border_radius=15" width="400" />
 </a>
-&nbsp;&nbsp;
 <a href="https://github.com/Har-dik25/OCR-Studio-Offline-Image-to-JSON-Web-App">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Har-dik25&repo=OCR-Studio-Offline-Image-to-JSON-Web-App&theme=tokyonight&hide_border=true&border_radius=15&show_owner=true&description_lines_count=2" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Har-dik25&repo=OCR-Studio-Offline-Image-to-JSON-Web-App&theme=tokyonight&hide_border=true&border_radius=15" width="400" />
 </a>
 
 </div>
@@ -206,10 +203,8 @@ const hardik = {
 
 <!-- Detailed project breakdowns -->
 <details>
-<summary><b>⚖️ LegalMind RAG — Industry-Grade Legal Intelligence (click to expand)</b></summary>
+<summary><b>⚖️ LegalMind RAG — Industry-Grade Legal Intelligence</b></summary>
 <br/>
-
-<div align="center">
 
 | Feature | Details |
 |---------|---------|
@@ -219,14 +214,11 @@ const hardik = {
 | 🔒 **Privacy** | Offline LLM inference via Ollama (Llama 3.2) — data stays local |
 | 🛠️ **Stack** | `Python` `FastAPI` `ChromaDB` `Sentence-Transformers` `React` |
 
-</div>
 </details>
 
 <details>
-<summary><b>🚦 AI Traffic Congestion — Smart City Analytics (click to expand)</b></summary>
+<summary><b>🚦 AI Traffic Congestion — Smart City Analytics</b></summary>
 <br/>
-
-<div align="center">
 
 | Feature | Details |
 |---------|---------|
@@ -236,14 +228,11 @@ const hardik = {
 | 📉 **Viz** | Power BI dashboards & live heatmaps |
 | 🛠️ **Stack** | `Python` `Flask` `TensorFlow` `Power BI` `AWS` |
 
-</div>
 </details>
 
 <details>
-<summary><b>🏢 CampusFlow HRMS — Scalable Backend Architecture (click to expand)</b></summary>
+<summary><b>🏢 CampusFlow HRMS — Scalable Backend Architecture</b></summary>
 <br/>
-
-<div align="center">
 
 | Feature | Details |
 |---------|---------|
@@ -253,14 +242,11 @@ const hardik = {
 | 🐳 **DevOps** | Dockerized deployment |
 | 🛠️ **Stack** | `Python` `FastAPI` `SQL` `Supabase` `Docker` |
 
-</div>
 </details>
 
 <details>
-<summary><b>📸 OCR Studio — Offline Document Extraction (click to expand)</b></summary>
+<summary><b>📸 OCR Studio — Offline Document Extraction</b></summary>
 <br/>
-
-<div align="center">
 
 | Feature | Details |
 |---------|---------|
@@ -270,12 +256,11 @@ const hardik = {
 | 🖼️ **Formats** | PDF, JPG, PNG support |
 | 🛠️ **Stack** | `Python` `Tesseract` `Flask` `JavaScript` |
 
-</div>
 </details>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 📊 GITHUB STATS                                                       -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 📊 GITHUB STATS                                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -285,42 +270,23 @@ const hardik = {
 
 <div align="center">
 
-<!-- Stats + Streak side by side with theme switching -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Har-dik25&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true&bg_color=0d1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Har-dik25&show_icons=true&theme=default&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Har-dik25&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" />
-</picture>
-&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Har-dik25&theme=tokyonight&hide_border=true&border_radius=15&background=0d1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Har-dik25&theme=default&hide_border=true&border_radius=15" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Har-dik25&theme=tokyonight&hide_border=true&border_radius=15&background=0d1117" alt="Streak Stats" />
-</picture>
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=Har-dik25&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img width="390" src="https://streak-stats.demolab.com?user=Har-dik25&theme=tokyonight&hide_border=true&border_radius=15" alt="Streak Stats" />
 
 <br/><br/>
 
-<!-- Top Languages -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Har-dik25&layout=donut-vertical&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8&bg_color=0d1117" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Har-dik25&layout=donut-vertical&theme=default&hide_border=true&border_radius=15&langs_count=8" />
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Har-dik25&layout=donut-vertical&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8&bg_color=0d1117" alt="Top Languages" />
-</picture>
+<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Har-dik25&layout=donut-vertical&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" alt="Top Languages" />
 
 <br/><br/>
 
 <!-- Activity Graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Har-dik25&theme=tokyo-night&hide_border=true&radius=16&bg_color=0d1117&color=6e40c9&line=6e40c9&point=e6edf3" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Har-dik25&theme=minimal&hide_border=true&radius=16&color=764ba2&line=764ba2&point=333333" />
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Har-dik25&theme=tokyo-night&hide_border=true&radius=16&bg_color=0d1117&color=6e40c9&line=6e40c9&point=e6edf3" alt="Activity Graph" />
-</picture>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Har-dik25&theme=tokyo-night&hide_border=true&radius=16" alt="Activity Graph" />
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 🐍 CONTRIBUTION SNAKE                                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🐍 CONTRIBUTION SNAKE                                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 <br/>
@@ -333,9 +299,9 @@ const hardik = {
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 🏅 ACHIEVEMENTS & CERTIFICATIONS                                      -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🏅 ACHIEVEMENTS & CERTIFICATIONS                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -346,42 +312,43 @@ const hardik = {
 <div align="center">
 
 <img src="https://img.shields.io/badge/OCI_Gen_AI_Professional-FF8300?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI Gen AI"/>
-&nbsp;
-<img src="https://img.shields.io/badge/OCI_Data_Science_Professional-FF8300?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI Data Science"/>
-&nbsp;
-<img src="https://img.shields.io/badge/HackerRank-5⭐_Python_&_SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-&nbsp;
+<img src="https://img.shields.io/badge/OCI_Data_Science_Pro-FF8300?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI Data Science"/>
+<img src="https://img.shields.io/badge/HackerRank-5⭐_Python_%26_SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
 <img src="https://img.shields.io/badge/LeetCode-80+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 
 <br/><br/>
 
-<!-- Metric cards -->
+<!-- Impact metrics -->
 <table>
 <tr>
-<td align="center">
-<img src="https://img.shields.io/badge/30K+-Records_Processed-6e40c9?style=flat-square&labelColor=1a1b27" height="25"/><br/>
-<sub><b>Data Analyst Intern</b></sub>
+<td align="center" width="150">
+<img width="60" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-data-analysis-digital-nomad-flaticons-flat-flat-icons.png" alt="data"/><br/>
+<b>30K+</b><br/>
+<sub>Records Processed</sub>
 </td>
-<td align="center">
-<img src="https://img.shields.io/badge/89%25-R²_Accuracy-667eea?style=flat-square&labelColor=1a1b27" height="25"/><br/>
-<sub><b>Traffic Prediction</b></sub>
+<td align="center" width="150">
+<img width="60" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-accuracy-achievements-flaticons-flat-flat-icons.png" alt="accuracy"/><br/>
+<b>89% R²</b><br/>
+<sub>ML Accuracy</sub>
 </td>
-<td align="center">
-<img src="https://img.shields.io/badge/40%25-Reporting_Reduction-764ba2?style=flat-square&labelColor=1a1b27" height="25"/><br/>
-<sub><b>Dashboard Automation</b></sub>
+<td align="center" width="150">
+<img width="60" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-dashboard-agile-flaticons-flat-flat-icons.png" alt="dashboard"/><br/>
+<b>40%</b><br/>
+<sub>Effort Reduced</sub>
 </td>
-<td align="center">
-<img src="https://img.shields.io/badge/1000+-Docs_Processed-f093fb?style=flat-square&labelColor=1a1b27" height="25"/><br/>
-<sub><b>OCR Studio</b></sub>
+<td align="center" width="150">
+<img width="60" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-documents-web-flaticons-flat-flat-icons.png" alt="docs"/><br/>
+<b>1000+</b><br/>
+<sub>Docs Processed</sub>
 </td>
 </tr>
 </table>
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 🎯 CURRENT FOCUS                                                      -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🎯 CURRENT FOCUS                                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -405,9 +372,9 @@ const hardik = {
   - 🔄 Contribute to 5+ major open-source projects
 ```
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 💡 BEYOND THE CODE                                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 💡 BEYOND THE CODE                                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 <h2>💡 Beyond the Code</h2>
@@ -417,14 +384,14 @@ const hardik = {
 
 | | |
 |:---:|:---:|
-| 📚 **Continuous Learner** — Devouring the latest AI research papers | 🎤 **Tech Enthusiast** — Hackathons, meetups & conferences |
-| ✍️ **Knowledge Sharing** — Writing about ML systems & best practices | 🌱 **Mentorship** — Helping juniors break into AI/ML |
+| 📚 **Continuous Learner** — Latest AI research papers | 🎤 **Tech Enthusiast** — Hackathons & meetups |
+| ✍️ **Knowledge Sharing** — ML systems & best practices | 🌱 **Mentorship** — Guiding juniors into AI/ML |
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 📬 CONNECT                                                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 📬 CONNECT                                                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -436,33 +403,31 @@ const hardik = {
 
 <a href="mailto:hardikkumar2583@gmail.com">
   <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Email"/>
-</a>&nbsp;&nbsp;
+</a>
 <a href="https://www.linkedin.com/in/hardik2583/">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn"/>
-</a>&nbsp;&nbsp;
+</a>
 <a href="https://github.com/Har-dik25">
   <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub"/>
-</a>&nbsp;&nbsp;
+</a>
 <a href="https://www.kaggle.com/hardik2583">
   <img src="https://img.shields.io/badge/Kaggle_Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="35" alt="Kaggle"/>
 </a>
 
 <br/><br/>
 
-<!-- Quote -->
+<!-- Random Dev Quote -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="70%"/>
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- 🌊 FOOTER WAVE                                                        -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🌊 FOOTER WAVE                                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:161b22,100:0d1117&height=120&section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=120&section=footer" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=120&section=footer" alt="Footer" />
-</picture>
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer"/>
 
 <div align="center">
 <sub>✨ <i>Building the future, one algorithm at a time</i> ✨</sub>
