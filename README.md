@@ -324,12 +324,12 @@ Explore the full portfolio — including TruthLens AI (fake news detection with 
 </div>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Har-dik25&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" alt="Stats"/>
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=Har-dik25&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" alt="Stats"/>
   <img width="48%" src="https://streak-stats.demolab.com?user=Har-dik25&theme=tokyonight&hide_border=true&border_radius=15" alt="Streak"/>
 </p>
 
 <p align="center">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Har-dik25&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" alt="Languages"/>
+  <img width="38%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Har-dik25&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" alt="Languages"/>
 </p>
 
 <p align="center">
@@ -339,6 +339,11 @@ Explore the full portfolio — including TruthLens AI (fake news detection with 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Har-dik25&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophies"/>
 </p>
+<!-- If the trophy image above doesn't load (the public instance is community-run and occasionally goes down),
+     swap the domain above for one of these community mirrors as a fallback:
+     https://github-profile-trophy-liard-delta.vercel.app
+     https://github-profile-trophy-fork-two.vercel.app -->
+
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🐍 CONTRIBUTION SNAKE                                         -->
