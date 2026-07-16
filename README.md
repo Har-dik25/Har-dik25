@@ -337,12 +337,11 @@ Explore the full portfolio — including TruthLens AI (fake news detection with 
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Har-dik25&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophies"/>
+  <img src="https://raw.githubusercontent.com/Har-dik25/Har-dik25/main/trophy.svg" alt="Trophies"/>
 </p>
-<!-- If the trophy image above doesn't load (the public instance is community-run and occasionally goes down),
-     swap the domain above for one of these community mirrors as a fallback:
-     https://github-profile-trophy-liard-delta.vercel.app
-     https://github-profile-trophy-fork-two.vercel.app -->
+<!-- This trophy.svg is generated once a day by .github/workflows/trophy.yml in this repo,
+     instead of pointing at the public github-profile-trophy.vercel.app service, which is
+     currently down (402 error) and may be discontinued permanently per the maintainer. -->
 
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
