@@ -5,13 +5,8 @@ GitHub README files support animated images and links, but not custom JavaScript
 -->
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,48:4338CA,100:06B6D4&height=235&section=header&text=Hardik%20Choudhary&fontSize=46&fontColor=F8FAFC&animation=twinkling&fontAlignY=34&desc=AI%20%7C%20Data%20Engineering%20%7C%20Applied%20Intelligence&descSize=16&descColor=E2E8F0&descAlignY=57"
-    width="100%"
-    alt="Animated gradient header for Hardik Choudhary"
-  />
+  <img src="./assets/hero.svg" alt="Hardik Choudhary — Applied AI, Data Engineering, Product Systems" width="100%"/>
 </p>
-
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=850&color=22D3EE&center=true&vCenter=true&width=800&height=50&lines=Turning+data+into+decisions;Building+retrieval-aware+AI+applications;Designing+useful+end-to-end+systems"
@@ -42,6 +37,10 @@ GitHub README files support animated images and links, but not custom JavaScript
 I'm a B.Tech Computer Science student at **Lovely Professional University**, specializing in **Artificial Intelligence and Data Engineering**. I enjoy building practical software that connects data preparation, analysis, retrieval, and usable interfaces.
 
 **Areas I work on:** data analytics and pipelines · applied AI and NLP · retrieval systems · API-backed applications.
+
+<p align="center">
+  <img src="./assets/system-orbit.svg" alt="A system flow from data to intelligence to product" width="100%"/>
+</p>
 
 ## Selected Projects
 
@@ -163,6 +162,14 @@ Worked on data cleaning, funnel and cohort analysis, forecasting, and reporting 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Har-dik25&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Har-dik25/Har-dik25/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Har-dik25/Har-dik25/output/github-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/Har-dik25/Har-dik25/output/github-snake.svg" width="100%" alt="Contribution graph snake animation"/>
+  </picture>
 </p>
 
 > **Note:** Animated headers and statistics are images served by third-party services. GitHub doesn't run custom JavaScript or provide interactive 3D scenes inside a README; the motion here is image-based, while the links, badges, project cards, and section navigation remain clickable.
