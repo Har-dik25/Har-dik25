@@ -4,8 +4,7 @@
 
 <p align="center">
   <a href="assets/Hardik_CV.pdf"><img src="assets/buttons/download-cv.svg" alt="Download AI and Engineering CV (PDF)" width="270" /></a>
-  <br />
-  <a href="assets/Hardik_CV_DA.pdf">Data Analytics CV (PDF)</a>
+  <a href="assets/Hardik_CV_DA.pdf"><img src="assets/buttons/data-analytics-cv.svg" alt="Download Data Analytics CV (PDF)" width="270" /></a>
   <!-- Portfolio button: replace PORTFOLIO_URL with your portfolio address, then remove the comment markers around this line.
   <a href="PORTFOLIO_URL"><img src="assets/buttons/portfolio.svg" alt="View portfolio" width="270" /></a>
   -->
@@ -21,11 +20,11 @@
 </p>
 
 <p align="center">
-  <a href="#how-the-systems-fit-together">Architecture</a> |
-  <a href="#featured-systems">Featured systems</a> |
-  <a href="#more-projects">More projects</a> |
-  <a href="#toolkit">Toolkit</a> |
-  <a href="#experience">Experience</a> |
+  <a href="#how-the-systems-fit-together">Architecture</a> ·
+  <a href="#featured-systems">Featured systems</a> ·
+  <a href="#more-projects">More projects</a> ·
+  <a href="#toolkit">Toolkit</a> ·
+  <a href="#experience">Experience</a> ·
   <a href="#credentials">Credentials</a>
 </p>
 
@@ -130,7 +129,7 @@ Six projects that show how I work across data, applied AI, analytics, and softwa
 **Data Intern — Futurense Technologies (Jun–Aug 2025):** Built lead-volume and conversion forecasts, cleaned marketing data, and created Power BI funnel and cohort dashboards that identified **15% critical inefficiencies** in CPL-focused optimization.
 
 <p align="center">
-  <a href="https://www.linkedin.com/posts/hardik8_internship-activity-7429402370805047296-5OnB">Data internship post</a> |
+  <a href="https://www.linkedin.com/posts/hardik8_internship-activity-7429402370805047296-5OnB">Data internship post</a> ·
   <a href="https://lnkd.in/p/dCbWkd-U">Applied AI internship certificate</a>
 </p>
 
