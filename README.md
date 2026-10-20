@@ -1,106 +1,149 @@
 <p align="center">
-  <img src="./assets/neural-atlas.svg" alt="Hardik Choudhary — AI and Data Systems Engineer" width="100%" />
+  <img src="assets/hero.svg" alt="Hardik Choudhary, AI and data systems engineer. An isometric neural core of three floating layers and a glowing cube, orbited by data bodies and connected to ingest, model, retrieve and act nodes." width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Har-dik25?tab=repositories">REPOSITORIES</a> ·
-  <a href="https://www.linkedin.com/in/hardik8/">LINKEDIN</a> ·
-  <a href="mailto:hardikkumar2583@gmail.com">EMAIL</a> ·
-  <a href="https://www.kaggle.com/choudhary25">KAGGLE</a> ·
-  <a href="https://leetcode.com/u/Choudhary_25/">LEETCODE</a> ·
-  <a href="https://www.hackerrank.com/profile/hardikkumar2583">HACKERRANK</a>
+  <a href="assets/Hardik_CV.pdf"><img src="assets/buttons/download-cv.svg" alt="Download AI and Engineering CV (PDF)" width="270" /></a>
+  <br />
+  <a href="assets/Hardik_CV_DA.pdf">Data Analytics CV (PDF)</a>
+  <!-- Portfolio button: replace PORTFOLIO_URL with your portfolio address, then remove the comment markers around this line.
+  <a href="PORTFOLIO_URL"><img src="assets/buttons/portfolio.svg" alt="View portfolio" width="270" /></a>
+  -->
 </p>
 
 <p align="center">
-  <a href="#featured-systems">FEATURED SYSTEMS</a> ·
-  <a href="#more-projects">MORE PROJECTS</a> ·
-  <a href="#technical-toolkit">TOOLKIT</a> ·
-  <a href="#experience">EXPERIENCE</a> ·
-  <a href="#certifications">CERTIFICATIONS</a>
+  <a href="https://www.linkedin.com/in/hardik8/"><img src="assets/connect/linkedin.svg" alt="LinkedIn" width="84" /></a>
+  <a href="mailto:hardikkumar2583@gmail.com"><img src="assets/connect/gmail.svg" alt="Email" width="84" /></a>
+  <a href="https://github.com/Har-dik25?tab=repositories"><img src="assets/connect/github.svg" alt="GitHub repositories" width="84" /></a>
+  <a href="https://www.kaggle.com/choudhary25"><img src="assets/connect/kaggle.svg" alt="Kaggle" width="84" /></a>
+  <a href="https://leetcode.com/u/Choudhary_25/"><img src="assets/connect/leetcode.svg" alt="LeetCode" width="84" /></a>
+  <a href="https://www.hackerrank.com/profile/hardikkumar2583"><img src="assets/connect/hackerrank.svg" alt="HackerRank" width="84" /></a>
 </p>
-
-## The engineering lane
-
-I’m a B.Tech Computer Science student at **Lovely Professional University**, specializing in **Artificial Intelligence and Data Engineering**. I build systems that connect the full path from messy source data to useful outcomes: data preparation and analytical models, retrieval-grounded AI, tool-driven agents, APIs, and decision-support interfaces.
-
-My work sits at the intersection of **data engineering, data science, analytics, applied ML, generative AI, and agentic application development**. I focus on the parts that make a prototype useful: trustworthy inputs, an explainable method, traceable outputs, and an interface people can act on.
 
 <p align="center">
-  <img src="./assets/engineering-map.svg" alt="Engineering workflow: ingest, model, reason, deliver" width="100%" />
+  <a href="#how-the-systems-fit-together">Architecture</a> |
+  <a href="#featured-systems">Featured systems</a> |
+  <a href="#more-projects">More projects</a> |
+  <a href="#toolkit">Toolkit</a> |
+  <a href="#experience">Experience</a> |
+  <a href="#credentials">Credentials</a>
 </p>
 
-## What I build
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
 
-| Discipline | What that looks like in my projects |
-|---|---|
-| **Data engineering** | Ingestion and transformation workflows, integrated datasets, SQL-backed analytical stores, repeatable processing, and validation checks. |
-| **Data science & analytics** | Exploratory analysis, feature design, statistical relationships, predictive modelling, explainability, geospatial analysis, and scenario testing. |
-| **Applied AI & GenAI** | Embeddings, hybrid retrieval, semantic search, reranking, NLP classification, and grounded answers for domain-specific workflows. |
-| **Agentic systems & AI products** | Tool orchestration, multi-step resolution, policy checks, escalation paths, audit logs, API services, and usable front ends. |
+## About
+
+I'm a Computer Science and Engineering student at **Lovely Professional University**, focused on **applied AI, data engineering, and analytics**. I build end-to-end projects that turn raw data into useful tools—from ingestion and analysis to retrieval or machine learning, APIs, and user interfaces. My work includes healthcare access analytics, legal document retrieval, market-news analysis, and explainable NLP. I work mainly with Python and SQL, alongside FastAPI, PyTorch, scikit-learn, React, and Streamlit.
+
+<p align="center">
+  <img src="assets/lanes.svg" alt="Four lanes of work. Data engineering: ingestion and cleaning pipelines, SQLite and Parquet stores, make-driven rebuilds and pytest-backed validation. Data science: analytics, composite indices, lead-lag correlation, SHAP-explained models, geospatial analysis and what-if simulation. Applied AI: hybrid retrieval, cross-encoder reranking, vector search and transformer text classification with token-level explanations. Agentic systems: policy-gated tool chains with retries, human escalation and audit logs, behind FastAPI back ends and React, Next.js or Streamlit front ends." width="100%" />
+</p>
+
+## How the systems fit together
+
+<p align="center">
+  <img src="assets/engineering-map.svg" alt="A vertical stack of four isometric layers with data flowing down through them. Ingest and shape: RSS, SEC EDGAR, FNSPID and NSE feeds; a SQLite warehouse of 640 districts and 673,638 villages; Parquet feature tables. Model: MiniLM embeddings in Qdrant and ChromaDB; Random Forest and Gradient Boosting with SHAP; a BERT and BiLSTM-attention hybrid. Reason: BM25 and dense search with reciprocal rank fusion; cross-encoder reranking over 3,840+ legal chunks; a nine-tool policy chain with human escalation. Deliver: FastAPI services behind React and Next.js consoles; Streamlit dashboards with GIS maps; an audit log of every decision. Tests, Docker, CI and structured logging run across every stage." width="100%" />
+</p>
 
 ## Featured systems
 
-### 1. [Rural Healthcare Access Gap Mapper](https://github.com/Har-dik25/Rural-Healthcare-Access-Gap)
+Six projects that show how I work across data, applied AI, analytics, and software.
 
-A national-scale decision-support project combining public-health, census, and NFHS-5 data to identify where rural healthcare access is weakest—and whether the gap is driven by staffing, facility capacity, quality, or travel friction. Its composite Access Gap Index sits on top of a SQLite analytical warehouse, while an interactive Streamlit/GIS dashboard supports district ranking and resource-allocation scenarios. The repository documents coverage of **640 districts and 673,638 villages**.
+### [Rural Healthcare Access Gap Mapper](https://github.com/Har-dik25/Rural-Healthcare-Access-Gap)
 
-### 2. [Samvidhan AI — Legal Intelligence](https://github.com/Har-dik25/Samvidhan_AI)
+<p align="center"><img src="assets/projects/rural-healthcare.svg" alt="Isometric district map of columns coloured by access gap severity with pulsing hotspots, fed by a SQLite warehouse. Stack: Python, pandas, NumPy, SQLite, Streamlit, Plotly, GIS maps, pytest." width="100%" /></p>
 
-A retrieval-first research workspace for Indian statutory material and legal precedents. It combines dense semantic retrieval with BM25 keyword search, rank fusion, and cross-encoder reranking to return structured, source-grounded legal information rather than relying on unconstrained free-form generation. The project README documents a corpus of **3,840+ statutory and precedent chunks**.
+- Combines MoHFW, Census, NFHS-5, and travel-time data for **640 districts and 673,638 villages** in a SQLite analytical warehouse.
+- Adds a composite Access Gap Index and a 12-module Streamlit dashboard with GIS maps, district drill-downs, and resource-allocation what-if analysis.
+- **Status:** Decision-support prototype using public data; runs locally with documented tests.
 
-### 3. [Market Sentiment & News Vector Correlation Platform](https://github.com/Har-dik25/Algorithmic-Market-Sentiment-News-Vector-Correlation-Platform)
+### [Samvidhan AI (LegalMind)](https://github.com/Har-dik25/Samvidhan_AI)
 
-An end-to-end financial data system that ingests market news, turns articles into 384-dimensional semantic vectors, indexes them in Qdrant, and tests lead/lag relationships between news-derived signals and price movement across a configurable trading window. The project documents coverage of **25+ tickers** and sub-300 ms p95 semantic-search latency. A FastAPI service and Next.js console connect retrieval, correlation analysis, and model outputs in one workflow.
+<p align="center"><img src="assets/projects/samvidhan-ai.svg" alt="A stack of legal documents feeds a retrieval ring that returns a result card with highlighted statute lines. Stack: Python, FastAPI, React, Vite, ChromaDB, BM25, SQLite, DVC." width="100%" /></p>
 
-### 4. [TransitAI — Public Transport Delay Analyzer](https://github.com/Har-dik25/Public-Transport-Delays-with-Weather-Events)
+- Implements hybrid retrieval over **3,840+ legal chunks**, combining ChromaDB dense search, BM25, reciprocal-rank fusion, and cross-encoder reranking.
+- Returns extractive statutory passages and IPC/CrPC-to-BNS/BNSS mappings through a React and FastAPI workspace with streamed responses.
+- **Status:** Full-stack legal research prototype; not legal advice.
 
-A predictive analytics pipeline using **simulated NYC MTA trip records**, enriched with historical weather and major city events. Random Forest and Gradient Boosting models estimate delay outcomes, while a Streamlit dashboard supports exploration and what-if scenarios; SHAP is used to inspect which conditions influence predictions.
+<p align="center"><img src="assets/retrieval-pipeline.svg" alt="Samvidhan AI retrieval pipeline from top to bottom: a legal question is preprocessed, then searched in parallel by dense ChromaDB retrieval and BM25 sparse retrieval over indexes built offline from 3,840+ chunks. Results are merged with reciprocal rank fusion and a section boost, reranked by a cross-encoder, and assembled by an extractive synthesizer into five outputs: overview, sub-clause breakdown, penal liability, IPC and CrPC to BNS and BNSS mapping, and precedents, streamed to a React workspace." width="100%" /></p>
 
-### 5. [ShopWave — Autonomous Support Resolution Agent](https://github.com/Har-dik25/ShopWave_Autonomous_Support_Resolution_Agent)
+### [Algorithmic Market Sentiment and News Vector Correlation Platform](https://github.com/Har-dik25/Algorithmic-Market-Sentiment-News-Vector-Correlation-Platform)
 
-A deliberately auditable support agent that classifies incoming e-commerce tickets, uses a 9-tool toolkit to verify and carry out multi-step policy-based actions, and escalates uncertain cases to a human with context. Its documented implementation processes a 20-ticket test workload and records decisions in an audit trail. It uses deterministic Python rules rather than calling an LLM API, making reliability and controlled automation explicit design choices.
+<p align="center"><img src="assets/projects/market-sentiment.svg" alt="Floating news vectors stream into an isometric chart where a sentiment ribbon leads a price ribbon. Stack: Python, FastAPI, Next.js, Qdrant, scikit-learn, SciPy, Docker, GitHub Actions." width="100%" /></p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Har-dik25/ShopWave_Autonomous_Support_Resolution_Agent/main/architecture.png" alt="ShopWave support agent architecture from the project repository" width="88%" />
-</p>
+- Ingests financial news, SEC filings, FNSPID data, and NSE feeds; cleans and indexes text in Qdrant for semantic search.
+- Tests news-sentiment signals against returns with lead-lag correlation and p-values, with a HistGradientBoosting model for comparison.
+- **Status:** End-to-end exploratory research pipeline; not a trading system.
 
-### 6. [AI-Powered Traffic Congestion Analysis](https://github.com/Har-dik25/AI-Traffic-Congestion-Analysis)
+### [TransitAI: Public Transport Delay Analyzer](https://github.com/Har-dik25/Public-Transport-Delays-with-Weather-Events)
 
-A traffic analytics application built around historical congestion data and reports from sources such as TOMTOM and INRIX. The workflow covers data cleanup, pattern analysis, machine-learning-based congestion prediction, AWS Lambda deployment, and a Flask dashboard for heatmaps and travel insights.
+<p align="center"><img src="assets/projects/transitai.svg" alt="A bus drives along an isometric road through rain and a delay zone, beside bars showing which factors drive a delay. Stack: Python, pandas, scikit-learn, SHAP, Parquet, Streamlit, Plotly, Docker." width="100%" /></p>
+
+- Uses a `make`-driven pipeline to join **simulated NYC MTA bus trips** with historical weather and city events, then trains delay models with SHAP explanations.
+- **Status:** Local analytics prototype; simulated trip records demonstrate the approach, not real MTA performance.
+
+### [ShopWave: Autonomous Support Resolution Agent](https://github.com/Har-dik25/ShopWave_Autonomous_Support_Resolution_Agent)
+
+<p align="center"><img src="assets/projects/shopwave.svg" alt="Tickets ride a conveyor through a glowing policy gate and split into resolved, awaiting-information and escalated lanes. Stack: Python standard library, JSON stores, thread pool, retries, audit log." width="100%" /></p>
+
+- A deterministic Python agent classifies support tickets and routes them through policy-gated tools, with refund checks, retries, human escalation, and audit logging.
+- **Status:** Standard-library prototype tested on synthetic tickets; no LLM calls.
+
+<p align="center"><img src="assets/agent-loop.svg" alt="ShopWave agent loop: support tickets are classified, then routed through policy-gated tools with retries, human escalation, and audit logging." width="100%" /></p>
+
+### [TruthLens AI: Fake News Detection](https://github.com/Har-dik25/Fake-News-Detection-System)
+
+<p align="center"><img src="assets/projects/truthlens.svg" alt="A text document with attention highlights passes through BERT and BiLSTM blocks into a swinging real-versus-fake gauge. Stack: Python, PyTorch, Hugging Face, scikit-learn, FastAPI, Docker, Pydantic, NLTK." width="100%" /></p>
+
+- Trains BERT and BiLSTM-attention models on **72,134 WELFake articles**, with NLP features and word-level attention visualizations.
+- Serves predictions through FastAPI and an explainability-focused browser interface.
+- **Status:** Training and serving pipeline with model-comparison and error-analysis tooling.
 
 ## More projects
 
-| Project | Engineering focus |
-|---|---|
-| [OCR Studio — Offline Image-to-JSON](https://github.com/Har-dik25/OCR-Studio-Offline-Image-to-JSON-Web-App) | An offline-first Flask application that processes uploaded images with OpenCV and Tesseract, displays extracted text, and exports structured JSON. |
-| [TruthLens AI — Fake News Detection](https://github.com/Har-dik25/Fake-News-Detection-System) | A credibility-analysis pipeline combining BERT with BiLSTM + self-attention and classical text signals (TF-IDF, POS features, VADER sentiment). Its FastAPI service exposes predictions and token-level explanations; the documented WELFake dataset contains 72,134 articles. |
-| [Nexus HR Core — Frontend](https://github.com/Har-dik25/hrms-frontend) · [Backend](https://github.com/Har-dik25/hrms-backend) | HR workflow product with separate frontend/backend repositories; the frontend README documents role-specific Admin and Employee dashboards, attendance and leave charts, React, Vite, Tailwind CSS, and Docker/Nginx deployment. |
-| [CampusFlow — University Management System](https://github.com/Har-dik25/UMS-replica) | Full-stack university workflow system built with FastAPI and React, covering student/faculty records, academics, attendance, exams, fees, and library operations. |
-| [HitCast — Spotify Popularity Predictor](https://github.com/Har-dik25/HitCast-Spotify-Track-Popularity-Predictor) | A work in progress; the repository is currently marked “In Progress.” |
+| Project | What it is | Stack | Status |
+|---|---|---|---|
+| [CampusFlow: University Management System](https://github.com/Har-dik25/UMS-replica) | FastAPI and React application covering student and faculty records, academics, attendance, exams, fees and library operations. | <img src="assets/icons/fastapi.svg" width="22" height="22" alt="FastAPI" title="FastAPI" /> <img src="assets/icons/react.svg" width="22" height="22" alt="React" title="React" /> <img src="assets/icons/vite.svg" width="22" height="22" alt="Vite" title="Vite" /> | Full-stack application |
+| [EcoEats: Food Waste Website](https://github.com/Har-dik25/Food-Wastage-website) | Responsive front end for coordinating surplus-food donations. | <img src="assets/icons/html5.svg" width="22" height="22" alt="HTML5" title="HTML5" /> <img src="assets/icons/css3.svg" width="22" height="22" alt="CSS3" title="CSS3" /> <img src="assets/icons/javascript.svg" width="22" height="22" alt="JavaScript" title="JavaScript" /> | Front-end concept |
+| [Perfect Present: Gift Recommendation Website](https://github.com/Har-dik25/Personalized-Gift-recommendation-) | Front end for exploring gift ideas by recipient and occasion. | <img src="assets/icons/html5.svg" width="22" height="22" alt="HTML5" title="HTML5" /> <img src="assets/icons/css3.svg" width="22" height="22" alt="CSS3" title="CSS3" /> <img src="assets/icons/javascript.svg" width="22" height="22" alt="JavaScript" title="JavaScript" /> | Front end |
+| [HitCast: Spotify Popularity Predictor](https://github.com/Har-dik25/HitCast-Spotify-Track-Popularity-Predictor) | Machine-learning project to estimate track popularity from audio features. | Not yet documented | In progress |
+| [AI-Powered Traffic Congestion Analysis](https://github.com/Har-dik25/AI-Traffic-Congestion-Analysis) | Team project exploring historical traffic data, congestion prediction, and local dashboard visualizations. | Python, pandas, scikit-learn, Flask | Analytics project |
+| [OCR Studio: Offline Image-to-JSON](https://github.com/Har-dik25/OCR-Studio-Offline-Image-to-JSON-Web-App) | Offline-first Flask utility that extracts image text and exports structured JSON. | Python, Flask, OpenCV, Tesseract | Local web utility |
+| Nexus HR Core ([frontend](https://github.com/Har-dik25/hrms-frontend), [backend](https://github.com/Har-dik25/hrms-backend)) | Role-based employee, attendance, and leave management application. | FastAPI, PostgreSQL, React | Full-stack application |
 
-## Technical toolkit
+## Toolkit
 
-| Layer | Tools and methods |
-|---|---|
-| **Languages & query** | Python, SQL, Java, JavaScript, HTML, CSS |
-| **Data & analytics** | Pandas, NumPy, SQLite, MySQL, data cleaning, EDA, statistical analysis, feature engineering |
-| **ML & NLP** | scikit-learn, PyTorch, transformers, classification/regression, model evaluation, SHAP, embeddings |
-| **Retrieval & agents** | ChromaDB, Qdrant, BM25, reciprocal rank fusion, cross-encoder reranking, tool-based workflows |
-| **Application layer** | FastAPI, Flask, Streamlit, React, Next.js, REST APIs |
-| **Engineering & cloud** | Git, GitHub Actions, Docker, AWS EC2, S3, Lambda, testing, structured logs |
+<p>Core areas: Python and SQL; data analysis and visualization; machine learning and NLP; retrieval and vector search; APIs and web applications; Docker, CI, and testing.</p>
+
+<p align="center">
+  <img src="assets/toolkit.svg" alt="Technical toolkit covering generative AI, agentic systems, RAG and vector search, machine learning, data engineering, Python and SQL, APIs and databases, visualization and geospatial interfaces, and cloud, testing, and DevOps." width="100%" />
+</p>
 
 ## Experience
 
-**Applied AI & Intelligent Systems Intern — Futurense Technologies** · Jun–Jul 2026  
-Worked with applied AI/ML workflows, including data preparation, prompt design, embeddings, and AI pipeline prototyping.  
-[Applied AI internship completion post & certificate image](https://lnkd.in/p/dCbWkd-U)
+<p align="center">
+  <img src="assets/timeline.svg" alt="Experience timeline. June to August 2025: Data Intern at Futurense Technologies, building models to forecast lead volume and conversion rates and cleaning marketing data for funnel and cohort analysis. June to July 2026: Applied AI and Intelligent Systems Intern at Futurense Technologies, prototyping AI pipelines across data ingestion, preprocessing, inference and API serving with prompt design and embeddings." width="100%" />
+</p>
 
-**Data Intern — Futurense Technologies** · Jun–Aug 2025  
-Worked on data preparation, analysis, and reporting workflows as part of a data internship.  
-[Internship post](https://www.linkedin.com/posts/hardik8_internship-ugcPost-7429402369811189760-l06H)
+**Applied AI & Intelligent Systems Intern — Futurense Technologies (Jun–Jul 2026):** Prototyped AI/ML pipelines spanning data ingestion, preprocessing, inference, and API serving, using prompt engineering and embeddings.
 
-## Certifications
+**Data Intern — Futurense Technologies (Jun–Aug 2025):** Built lead-volume and conversion forecasts, cleaned marketing data, and created Power BI funnel and cohort dashboards that identified **15% critical inefficiencies** in CPL-focused optimization.
 
-- [Oracle Cloud Infrastructure — Generative AI Professional](https://www.linkedin.com/posts/hardik8_generative-ai-professional-ugcPost-7388917133335879680-tR8l/)
-- [Oracle Cloud Infrastructure — Data Science Professional](https://www.linkedin.com/posts/hardik8_data-science-professional-ugcPost-7389534103588659200-GkAy/)
+<p align="center">
+  <a href="https://www.linkedin.com/posts/hardik8_internship-activity-7429402370805047296-5OnB">Data internship post</a> |
+  <a href="https://lnkd.in/p/dCbWkd-U">Applied AI internship certificate</a>
+</p>
 
+## Credentials
+
+| Credential | Issuer | Link |
+|---|---|---|
+| Oracle Cloud Infrastructure 2025 Certified Generative AI Professional | Oracle University | [LinkedIn post](https://www.linkedin.com/posts/hardik8_generative-ai-professional-activity-7388917134468431872-ipzL) |
+| Oracle Cloud Infrastructure 2025 Certified Data Science Professional | Oracle University | [LinkedIn post](https://www.linkedin.com/posts/hardik8_data-science-professional-activity-7389534104666476544-doIF) |
+| SQL (Advanced) | <img src="assets/icons/hackerrank.svg" width="18" height="18" alt="" /> HackerRank | [Profile](https://www.hackerrank.com/profile/hardikkumar2583) |
+| CSS (Basic) | <img src="assets/icons/hackerrank.svg" width="18" height="18" alt="" /> HackerRank | [Profile](https://www.hackerrank.com/profile/hardikkumar2583) |
+| Build Generative AI Apps and Solutions with No-Code Tools | <img src="assets/icons/udemy.svg" width="18" height="18" alt="" /> Udemy | Course completion |
+
+Also: 5-star HackerRank rating in Python and SQL (Oct 2025), and participant in the Google Gen AI Exchange Hackathon and Smart India Hackathon (2025).
+
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>

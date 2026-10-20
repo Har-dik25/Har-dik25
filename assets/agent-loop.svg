@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 524" width="860" height="524" role="img" aria-labelledby="agent-t agent-d">
+<title id="agent-t">ShopWave support agent resolution loop</title>
+<desc id="agent-d">A ticket is classified, resolved through a policy-gated chain of tools with retries, and ends as resolved, awaiting customer information or escalated to a human. Every step is written to an audit log.</desc>
+
+<style>
+.tw{animation:tw 5s ease-in-out infinite}
+@keyframes tw{0%,100%{opacity:.18}50%{opacity:.9}}
+.dash{animation:dash 7s linear infinite}
+.dash.fast{animation-duration:3s}
+.dash.slow{animation-duration:13s}
+.dash.rev{animation-direction:reverse}
+@keyframes dash{to{stroke-dashoffset:-160}}
+.halo{animation:halo 3.4s ease-in-out infinite}
+@keyframes halo{0%,100%{opacity:.45}50%{opacity:.95}}
+.pulse{animation:pulse 2.6s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:.3}50%{opacity:1}}
+.bob{animation:bob 4.5s ease-in-out infinite}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+.lift{animation:lift 5.2s ease-in-out infinite}
+@keyframes lift{0%,100%{transform:translateY(0)}50%{transform:translateY(var(--a,-6px))}}
+.ripple{transform-box:fill-box;transform-origin:center;animation:ripple 4.2s ease-out infinite;opacity:0}
+@keyframes ripple{0%{transform:scale(.25);opacity:.7}100%{transform:scale(1.35);opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.fx{display:none}}
+</style>
+
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#070c1c"/><stop offset="1" stop-color="#0b1330"/></linearGradient></defs><rect width="860" height="524" rx="16" fill="url(#bg)"/>
+<defs><marker id="ah-cyan" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1,1 L9,5 L1,9 Z" fill="#52d6ff"/></marker><marker id="ah-violet" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1,1 L9,5 L1,9 Z" fill="#9a8cff"/></marker><marker id="ah-mint" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1,1 L9,5 L1,9 Z" fill="#5eead4"/></marker><marker id="ah-amber" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1,1 L9,5 L1,9 Z" fill="#ffb454"/></marker><marker id="ah-rose" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1,1 L9,5 L1,9 Z" fill="#ff7a9c"/></marker><marker id="ah-gray" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1,1 L9,5 L1,9 Z" fill="#7487bd"/></marker></defs>
+<rect x="30" y="30" width="150" height="78" rx="12" fill="#0e1736" stroke="#2c3f82"/><rect x="44" y="30" width="122" height="2.5" rx="1.2" fill="#52d6ff"/><text x="46.0" y="58.0" text-anchor="start" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="16" font-weight="700" fill="#eef3ff" >Ticket</text><text x="46.0" y="80.0" text-anchor="start" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="13" font-weight="400" fill="#b3c0e3" >customer email</text>
+<rect x="236" y="30" width="594" height="78" rx="12" fill="#0e1736" stroke="#2c3f82"/>
+<rect x="250" y="30" width="566" height="2.5" rx="1.2" fill="#52d6ff"/>
+<text x="252.0" y="58.0" text-anchor="start" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="16" font-weight="700" fill="#eef3ff" >Classify</text>
+<rect x="252" y="68" width="104" height="28" rx="14" fill="#0e1736" stroke="#52d6ff" stroke-opacity=".85"/><text x="304.0" y="86.6" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="12.5" font-weight="400" fill="#eef3ff" >8 categories</text>
+<rect x="364" y="68" width="195" height="28" rx="14" fill="#0e1736" stroke="#52d6ff" stroke-opacity=".85"/><text x="461.5" y="86.6" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="12.5" font-weight="400" fill="#eef3ff" >urgency: low, medium, high</text>
+<rect x="567" y="68" width="247" height="28" rx="14" fill="#0e1736" stroke="#52d6ff" stroke-opacity=".85"/><text x="690.5" y="86.6" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="12.5" font-weight="400" fill="#eef3ff" >flags: social engineering, threats</text>
+<rect x="30" y="150" width="520" height="284" rx="12" fill="#0e1736" stroke="#2c3f82"/>
+<rect x="44" y="150" width="492" height="2.5" rx="1.2" fill="#5eead4"/>
+<text x="48.0" y="180.0" text-anchor="start" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="16" font-weight="700" fill="#eef3ff" >Resolve with a tool chain</text>
+<text x="48.0" y="201.0" text-anchor="start" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="13" font-weight="400" fill="#b3c0e3" >every tool call retries up to 3 times with backoff and jitter</text>
+<rect x="48" y="218" width="111" height="32" rx="16" fill="#0e1736" stroke="#5eead4" stroke-opacity=".85"/><text x="103.6" y="238.6" text-anchor="middle" font-family="'SF Mono','Cascadia Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12.5" font-weight="400" fill="#eef3ff" >get_customer</text>
+<text x="532.0" y="239.0" text-anchor="end" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="13" font-weight="400" fill="#8c9dc9" >read</text>
+<rect x="48" y="262" width="90" height="32" rx="16" fill="#0e1736" stroke="#5eead4" stroke-opacity=".85"/><text x="93.0" y="282.6" text-anchor="middle" font-family="'SF Mono','Cascadia Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12.5" font-weight="400" fill="#eef3ff" >get_order</text>
+<text x="532.0" y="283.0" text-anchor="end" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="13" font-weight="400" fill="#8c9dc9" >read</text>
+<rect x="48" y="306" width="196" height="32" rx="16" fill="#0e1736" stroke="#9a8cff" stroke-opacity=".85"/><text x="146.2" y="326.6" text-anchor="middle" font-family="'SF Mono','Cascadia Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12.5" font-weight="400" fill="#eef3ff" >check_refund_eligibility</text>
+<text x="532.0" y="327.0" text-anchor="end" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="13" font-weight="400" fill="#8c9dc9" >policy gate</text>
+<path d="M68,250 L68,262 M68,294 L68,306 M68,338 L68,354" stroke="#7487bd" stroke-width="1.5" marker-end="url(#ah-gray)" fill="none"/>
+<rect x="48" y="360" width="111" height="32" rx="16" fill="#0e1736" stroke="#ffb454" stroke-opacity=".85"/><text x="103.6" y="380.6" text-anchor="middle" font-family="'SF Mono','Cascadia Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12.5" font-weight="400" fill="#eef3ff" >issue_refund</text>
+<rect x="167" y="360" width="97" height="32" rx="16" fill="#0e1736" stroke="#ffb454" stroke-opacity=".85"/><text x="215.7" y="380.6" text-anchor="middle" font-family="'SF Mono','Cascadia Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12.5" font-weight="400" fill="#eef3ff" >send_reply</text>
+<rect x="272" y="360" width="83" height="32" rx="16" fill="#0e1736" stroke="#ffb454" stroke-opacity=".85"/><text x="313.6" y="380.6" text-anchor="middle" font-family="'SF Mono','Cascadia Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12.5" font-weight="400" fill="#eef3ff" >escalate</text>
+<text x="48.0" y="418.0" text-anchor="start" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="13" font-weight="400" fill="#8c9dc9" >issue_refund is irreversible: blocked until eligibility passes, with</text>
+<text x="48.0" y="438.0" text-anchor="start" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="13" font-weight="400" fill="#8c9dc9" >double-refund protection and amount validation</text>
+<rect x="596" y="150" width="234" height="66" rx="12" fill="#0e1736" stroke="#5eead4" stroke-opacity=".85"/>
+<text x="620.0" y="194.0" text-anchor="start" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="30" font-weight="700" fill="#5eead4" >12</text>
+<text x="662.0" y="190.0" text-anchor="start" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="14.5" font-weight="400" fill="#eef3ff" >Resolved</text>
+<rect x="596" y="230" width="234" height="66" rx="12" fill="#0e1736" stroke="#9a8cff" stroke-opacity=".85"/>
+<text x="620.0" y="274.0" text-anchor="start" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="30" font-weight="700" fill="#9a8cff" >4</text>
+<text x="662.0" y="270.0" text-anchor="start" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="14.5" font-weight="400" fill="#eef3ff" >Awaiting customer info</text>
+<rect x="596" y="310" width="234" height="66" rx="12" fill="#0e1736" stroke="#ffb454" stroke-opacity=".85"/>
+<text x="620.0" y="354.0" text-anchor="start" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="30" font-weight="700" fill="#ffb454" >4</text>
+<text x="662.0" y="350.0" text-anchor="start" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="14.5" font-weight="400" fill="#eef3ff" >Escalated to a human</text>
+<text x="596.0" y="410.0" text-anchor="start" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="12.5" font-weight="400" fill="#8c9dc9" >Documented run on 20 synthetic tickets;</text>
+<text x="596.0" y="428.0" text-anchor="start" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="12.5" font-weight="400" fill="#8c9dc9" >rule-based agent, no LLM calls</text>
+<path d="M180,69 L236,69" fill="none" stroke="#52d6ff" stroke-width="1.6" stroke-opacity="0.85" stroke-dasharray="5 7" stroke-linecap="round" class="dash fast" marker-end="url(#ah-cyan)"/>
+<g class="fx"><circle r="7.2" fill="#52d6ff" opacity=".22"/><circle r="3" fill="#52d6ff"/><animateMotion dur="2.2s" begin="-0.00s" repeatCount="indefinite" path="M180,69 L236,69"/></g>
+<path d="M400,108 L400,150" fill="none" stroke="#5eead4" stroke-width="1.6" stroke-opacity="0.85" stroke-dasharray="5 7" stroke-linecap="round" class="dash fast" marker-end="url(#ah-mint)"/>
+<g class="fx"><circle r="7.2" fill="#5eead4" opacity=".22"/><circle r="3" fill="#5eead4"/><animateMotion dur="2.2s" begin="-0.45s" repeatCount="indefinite" path="M400,108 L400,150"/></g>
+<path d="M550,292 C574,292 574,183 596,183" fill="none" stroke="#5eead4" stroke-width="1.6" stroke-opacity="0.85" stroke-dasharray="5 7" stroke-linecap="round" class="dash fast" marker-end="url(#ah-mint)"/>
+<g class="fx"><circle r="7.2" fill="#5eead4" opacity=".22"/><circle r="3" fill="#5eead4"/><animateMotion dur="2.2s" begin="-0.90s" repeatCount="indefinite" path="M550,292 C574,292 574,183 596,183"/></g>
+<path d="M550,292 C574,292 574,263 596,263" fill="none" stroke="#9a8cff" stroke-width="1.6" stroke-opacity="0.85" stroke-dasharray="5 7" stroke-linecap="round" class="dash fast" marker-end="url(#ah-violet)"/>
+<g class="fx"><circle r="7.2" fill="#9a8cff" opacity=".22"/><circle r="3" fill="#9a8cff"/><animateMotion dur="2.2s" begin="-1.35s" repeatCount="indefinite" path="M550,292 C574,292 574,263 596,263"/></g>
+<path d="M550,292 C574,292 574,343 596,343" fill="none" stroke="#ffb454" stroke-width="1.6" stroke-opacity="0.85" stroke-dasharray="5 7" stroke-linecap="round" class="dash fast" marker-end="url(#ah-amber)"/>
+<g class="fx"><circle r="7.2" fill="#ffb454" opacity=".22"/><circle r="3" fill="#ffb454"/><animateMotion dur="2.2s" begin="-1.80s" repeatCount="indefinite" path="M550,292 C574,292 574,343 596,343"/></g>
+<rect x="30" y="456" width="800" height="54" rx="12" fill="#0e1736" stroke="#2c3f82" stroke-dasharray="5 5"/>
+<text x="430.0" y="479.0" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="16" font-weight="700" fill="#eef3ff" >Audit trail</text>
+<text x="430.0" y="498.0" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="13" font-weight="400" fill="#b3c0e3" >audit_log.json records each tool call with inputs, outputs, latency and the decision that followed</text>
+<path d="M290,434 L290,456" stroke="#5eead4" stroke-opacity=".6" stroke-width="1.4" stroke-dasharray="3 6" class="dash fast" fill="none"/>
+<path d="M713,440 L713,456" stroke="#ffb454" stroke-opacity=".6" stroke-width="1.4" stroke-dasharray="3 6" class="dash fast" fill="none"/>
+</svg>

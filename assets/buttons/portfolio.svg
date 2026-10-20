@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 92" width="300" height="92" role="img" aria-labelledby="pf-t pf-d">
+<title id="pf-t">View portfolio</title>
+<desc id="pf-d">View portfolio. Personal website.</desc>
+
+<style>
+.tw{animation:tw 5s ease-in-out infinite}
+@keyframes tw{0%,100%{opacity:.18}50%{opacity:.9}}
+.dash{animation:dash 7s linear infinite}
+.dash.fast{animation-duration:3s}
+.dash.slow{animation-duration:13s}
+.dash.rev{animation-direction:reverse}
+@keyframes dash{to{stroke-dashoffset:-160}}
+.halo{animation:halo 3.4s ease-in-out infinite}
+@keyframes halo{0%,100%{opacity:.45}50%{opacity:.95}}
+.pulse{animation:pulse 2.6s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:.3}50%{opacity:1}}
+.bob{animation:bob 4.5s ease-in-out infinite}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+.lift{animation:lift 5.2s ease-in-out infinite}
+@keyframes lift{0%,100%{transform:translateY(0)}50%{transform:translateY(var(--a,-6px))}}
+.ripple{transform-box:fill-box;transform-origin:center;animation:ripple 4.2s ease-out infinite;opacity:0}
+@keyframes ripple{0%{transform:scale(.25);opacity:.7}100%{transform:scale(1.35);opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.fx{display:none}}
+
+.shine{animation:shine 3.6s ease-in-out infinite}
+@keyframes shine{0%,55%{transform:translateX(-120px)}100%{transform:translateX(420px)}}
+.nudge{animation:nudge 1.8s ease-in-out infinite}
+@keyframes nudge{0%,100%{transform:translateY(-2px)}50%{transform:translateY(3px)}}
+</style>
+
+<defs><linearGradient id="bf" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffb454"/><stop offset="1" stop-color="#5eead4"/></linearGradient><linearGradient id="bs" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffb454" stop-opacity=".55"/><stop offset="1" stop-color="#5eead4" stop-opacity=".55"/></linearGradient><clipPath id="bc"><rect x="6" y="6" width="288" height="68" rx="20"/></clipPath><linearGradient id="sh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".55"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<ellipse cx="150" cy="86" rx="118" ry="5" fill="#000" opacity=".3"/>
+<rect x="6" y="14" width="288" height="68" rx="20" fill="#0a1128"/>
+<rect x="6" y="14" width="288" height="68" rx="20" fill="url(#bs)"/>
+<rect x="6" y="6" width="288" height="68" rx="20" fill="url(#bf)"/>
+<rect x="7" y="7" width="286" height="66" rx="19" fill="none" stroke="#fff" stroke-opacity=".5"/>
+<g clip-path="url(#bc)"><rect class="shine" x="0" y="-10" width="70" height="100" fill="url(#sh)" transform="skewX(-20)"/></g>
+<circle cx="52" cy="40" r="23" fill="#071029" fill-opacity=".14"/>
+<g class="bob"><svg x="36.0" y="24.0" width="32.0" height="32.0" viewBox="0 0 512 512" fill="#071029"><path d="M351.9 280H161c2.9 64.5 17.2 123.9 37.5 167.4 11.4 24.5 23.7 41.8 35.1 52.4 11.2 10.5 18.9 12.2 22.9 12.2s11.7-1.7 22.9-12.2c11.4-10.6 23.7-28 35.1-52.4 20.3-43.5 34.6-102.9 37.5-167.4zm-191-48h190.9c-2.8-64.5-17.1-123.9-37.4-167.4-11.4-24.4-23.7-41.8-35.1-52.4C268.1 1.7 260.4 0 256.4 0s-11.7 1.7-22.9 12.2c-11.4 10.6-23.7 28-35.1 52.4-20.3 43.5-34.6 102.9-37.5 167.4m-48 0c3.5-85.6 25.6-165.1 57.9-217.3C78.7 47.3 10.9 131.2 1.5 232zM1.5 280c9.4 100.8 77.2 184.7 169.3 217.3-32.3-52.2-54.4-131.7-57.9-217.3zm398.4 0c-3.5 85.6-25.6 165.1-57.9 217.3 92.1-32.7 159.9-116.5 169.3-217.3zm111.4-48C501.9 131.2 434.1 47.3 342 14.7c32.3 52.2 54.4 131.7 57.9 217.3z"/></svg></g>
+<text x="92.0" y="38.0" text-anchor="start" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="22" font-weight="700" fill="#071029" >View portfolio</text>
+<text x="92.0" y="58.0" text-anchor="start" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="13.5" font-weight="500" fill="#0b1a4a" >Personal website</text>
+</svg>

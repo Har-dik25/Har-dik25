@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 92" width="300" height="92" role="img" aria-labelledby="cv-t cv-d">
+<title id="cv-t">Download CV</title>
+<desc id="cv-d">Download CV. Resume, PDF.</desc>
+
+<style>
+.tw{animation:tw 5s ease-in-out infinite}
+@keyframes tw{0%,100%{opacity:.18}50%{opacity:.9}}
+.dash{animation:dash 7s linear infinite}
+.dash.fast{animation-duration:3s}
+.dash.slow{animation-duration:13s}
+.dash.rev{animation-direction:reverse}
+@keyframes dash{to{stroke-dashoffset:-160}}
+.halo{animation:halo 3.4s ease-in-out infinite}
+@keyframes halo{0%,100%{opacity:.45}50%{opacity:.95}}
+.pulse{animation:pulse 2.6s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:.3}50%{opacity:1}}
+.bob{animation:bob 4.5s ease-in-out infinite}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+.lift{animation:lift 5.2s ease-in-out infinite}
+@keyframes lift{0%,100%{transform:translateY(0)}50%{transform:translateY(var(--a,-6px))}}
+.ripple{transform-box:fill-box;transform-origin:center;animation:ripple 4.2s ease-out infinite;opacity:0}
+@keyframes ripple{0%{transform:scale(.25);opacity:.7}100%{transform:scale(1.35);opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.fx{display:none}}
+
+.shine{animation:shine 3.6s ease-in-out infinite}
+@keyframes shine{0%,55%{transform:translateX(-120px)}100%{transform:translateX(420px)}}
+.nudge{animation:nudge 1.8s ease-in-out infinite}
+@keyframes nudge{0%,100%{transform:translateY(-2px)}50%{transform:translateY(3px)}}
+</style>
+
+<defs><linearGradient id="bf" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#52d6ff"/><stop offset="1" stop-color="#9a8cff"/></linearGradient><linearGradient id="bs" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#52d6ff" stop-opacity=".55"/><stop offset="1" stop-color="#9a8cff" stop-opacity=".55"/></linearGradient><clipPath id="bc"><rect x="6" y="6" width="288" height="68" rx="20"/></clipPath><linearGradient id="sh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".55"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<ellipse cx="150" cy="86" rx="118" ry="5" fill="#000" opacity=".3"/>
+<rect x="6" y="14" width="288" height="68" rx="20" fill="#0a1128"/>
+<rect x="6" y="14" width="288" height="68" rx="20" fill="url(#bs)"/>
+<rect x="6" y="6" width="288" height="68" rx="20" fill="url(#bf)"/>
+<rect x="7" y="7" width="286" height="66" rx="19" fill="none" stroke="#fff" stroke-opacity=".5"/>
+<g clip-path="url(#bc)"><rect class="shine" x="0" y="-10" width="70" height="100" fill="url(#sh)" transform="skewX(-20)"/></g>
+<circle cx="52" cy="40" r="23" fill="#071029" fill-opacity=".14"/>
+<g class="nudge"><svg x="36.0" y="24.0" width="32.0" height="32.0" viewBox="0 0 448 512" fill="#071029"><path d="M256 32c0-17.7-14.3-32-32-32s-32 14.3-32 32v210.7l-41.4-41.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l96 96c12.5 12.5 32.8 12.5 45.3 0l96-96c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L256 242.7zM64 320c-35.3 0-64 28.7-64 64v32c0 35.3 28.7 64 64 64h320c35.3 0 64-28.7 64-64v-32c0-35.3-28.7-64-64-64h-46.9l-56.6 56.6c-31.2 31.2-81.9 31.2-113.1 0L110.9 320zm304 56a24 24 0 1 1 0 48 24 24 0 1 1 0-48"/></svg></g>
+<text x="92.0" y="38.0" text-anchor="start" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="22" font-weight="700" fill="#071029" >Download CV</text>
+<text x="92.0" y="58.0" text-anchor="start" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="13.5" font-weight="500" fill="#0b1a4a" >Resume, PDF</text>
+</svg>

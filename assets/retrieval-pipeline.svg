@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 786" width="860" height="786" role="img" aria-labelledby="rag-t rag-d">
+<title id="rag-t">Samvidhan AI retrieval pipeline</title>
+<desc id="rag-d">A query is preprocessed, then searched in parallel by dense ChromaDB retrieval and BM25 sparse retrieval over indexes built offline. Results are merged with section-boosted reciprocal rank fusion, reranked by a cross-encoder and assembled by an extractive synthesizer into five structured outputs, streamed to a React workspace.</desc>
+
+<style>
+.tw{animation:tw 5s ease-in-out infinite}
+@keyframes tw{0%,100%{opacity:.18}50%{opacity:.9}}
+.dash{animation:dash 7s linear infinite}
+.dash.fast{animation-duration:3s}
+.dash.slow{animation-duration:13s}
+.dash.rev{animation-direction:reverse}
+@keyframes dash{to{stroke-dashoffset:-160}}
+.halo{animation:halo 3.4s ease-in-out infinite}
+@keyframes halo{0%,100%{opacity:.45}50%{opacity:.95}}
+.pulse{animation:pulse 2.6s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:.3}50%{opacity:1}}
+.bob{animation:bob 4.5s ease-in-out infinite}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+.lift{animation:lift 5.2s ease-in-out infinite}
+@keyframes lift{0%,100%{transform:translateY(0)}50%{transform:translateY(var(--a,-6px))}}
+.ripple{transform-box:fill-box;transform-origin:center;animation:ripple 4.2s ease-out infinite;opacity:0}
+@keyframes ripple{0%{transform:scale(.25);opacity:.7}100%{transform:scale(1.35);opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.fx{display:none}}
+</style>
+
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#070c1c"/><stop offset="1" stop-color="#0b1330"/></linearGradient></defs><rect width="860" height="786" rx="16" fill="url(#bg)"/>
+<defs><marker id="ah-cyan" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1,1 L9,5 L1,9 Z" fill="#52d6ff"/></marker><marker id="ah-violet" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1,1 L9,5 L1,9 Z" fill="#9a8cff"/></marker><marker id="ah-mint" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1,1 L9,5 L1,9 Z" fill="#5eead4"/></marker><marker id="ah-amber" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1,1 L9,5 L1,9 Z" fill="#ffb454"/></marker><marker id="ah-rose" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1,1 L9,5 L1,9 Z" fill="#ff7a9c"/></marker><marker id="ah-gray" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1,1 L9,5 L1,9 Z" fill="#7487bd"/></marker></defs>
+<rect x="320" y="28" width="220" height="62" rx="12" fill="#0e1736" stroke="#2c3f82"/><rect x="334" y="28" width="192" height="2.5" rx="1.2" fill="#52d6ff"/><text x="336.0" y="56.0" text-anchor="start" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="16" font-weight="700" fill="#eef3ff" >Query</text><text x="336.0" y="78.0" text-anchor="start" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="13" font-weight="400" fill="#b3c0e3" >a legal question</text>
+<rect x="280" y="122" width="300" height="72" rx="12" fill="#0e1736" stroke="#2c3f82"/><rect x="294" y="122" width="272" height="2.5" rx="1.2" fill="#52d6ff"/><text x="296.0" y="150.0" text-anchor="start" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="16" font-weight="700" fill="#eef3ff" >Preprocess</text><text x="296.0" y="172.0" text-anchor="start" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="13" font-weight="400" fill="#b3c0e3" >query cleanup and doctrine expansion</text>
+<rect x="30" y="226" width="800" height="124" rx="14" fill="none" stroke="#4a5fb5" stroke-dasharray="5 6"/>
+<text x="48.0" y="250.0" text-anchor="start" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="13" font-weight="400" fill="#8c9dc9" >Built offline: 3,840+ chunks</text>
+<rect x="62" y="266" width="340" height="72" rx="12" fill="#0e1736" stroke="#2c3f82"/><rect x="76" y="266" width="312" height="2.5" rx="1.2" fill="#9a8cff"/><text x="78.0" y="294.0" text-anchor="start" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="16" font-weight="700" fill="#eef3ff" >Dense retrieval</text><text x="78.0" y="316.0" text-anchor="start" font-family="'SF Mono','Cascadia Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="11.5" font-weight="400" fill="#b3c0e3" >all-MiniLM-L12-v2 vectors in ChromaDB</text>
+<rect x="458" y="266" width="340" height="72" rx="12" fill="#0e1736" stroke="#2c3f82"/><rect x="472" y="266" width="312" height="2.5" rx="1.2" fill="#9a8cff"/><text x="474.0" y="294.0" text-anchor="start" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="16" font-weight="700" fill="#eef3ff" >Sparse retrieval</text><text x="474.0" y="316.0" text-anchor="start" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="13" font-weight="400" fill="#b3c0e3" >BM25 keyword index, exact term matching</text>
+<rect x="280" y="384" width="300" height="72" rx="12" fill="#0e1736" stroke="#2c3f82"/><rect x="294" y="384" width="272" height="2.5" rx="1.2" fill="#5eead4"/><text x="296.0" y="412.0" text-anchor="start" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="16" font-weight="700" fill="#eef3ff" >Rank fusion</text><text x="296.0" y="434.0" text-anchor="start" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="13" font-weight="400" fill="#b3c0e3" >reciprocal rank fusion with section boost</text>
+<rect x="280" y="486" width="300" height="72" rx="12" fill="#0e1736" stroke="#2c3f82"/><rect x="294" y="486" width="272" height="2.5" rx="1.2" fill="#5eead4"/><text x="296.0" y="514.0" text-anchor="start" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="16" font-weight="700" fill="#eef3ff" >Rerank</text><text x="296.0" y="536.0" text-anchor="start" font-family="'SF Mono','Cascadia Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="11.5" font-weight="400" fill="#b3c0e3" >cross-encoder ms-marco-MiniLM-L-6-v2</text>
+<rect x="280" y="588" width="300" height="72" rx="12" fill="#0e1736" stroke="#2c3f82"/><rect x="294" y="588" width="272" height="2.5" rx="1.2" fill="#ffb454"/><text x="296.0" y="616.0" text-anchor="start" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="16" font-weight="700" fill="#eef3ff" >Synthesize</text><text x="296.0" y="638.0" text-anchor="start" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="13" font-weight="400" fill="#b3c0e3" >extractive: quotes the statute text</text>
+<path d="M430,90 L430,122" fill="none" stroke="#52d6ff" stroke-width="1.6" stroke-opacity="0.85" stroke-dasharray="5 7" stroke-linecap="round" class="dash fast" marker-end="url(#ah-cyan)"/>
+<g class="fx"><circle r="7.2" fill="#52d6ff" opacity=".22"/><circle r="3" fill="#52d6ff"/><animateMotion dur="2.4s" begin="-0.00s" repeatCount="indefinite" path="M430,90 L430,122"/></g>
+<path d="M330,194 C330,232 232,224 232,266" fill="none" stroke="#9a8cff" stroke-width="1.6" stroke-opacity="0.85" stroke-dasharray="5 7" stroke-linecap="round" class="dash fast" marker-end="url(#ah-violet)"/>
+<g class="fx"><circle r="7.2" fill="#9a8cff" opacity=".22"/><circle r="3" fill="#9a8cff"/><animateMotion dur="2.4s" begin="-0.70s" repeatCount="indefinite" path="M330,194 C330,232 232,224 232,266"/></g>
+<path d="M530,194 C530,232 628,224 628,266" fill="none" stroke="#9a8cff" stroke-width="1.6" stroke-opacity="0.85" stroke-dasharray="5 7" stroke-linecap="round" class="dash fast" marker-end="url(#ah-violet)"/>
+<g class="fx"><circle r="7.2" fill="#9a8cff" opacity=".22"/><circle r="3" fill="#9a8cff"/><animateMotion dur="2.4s" begin="-1.40s" repeatCount="indefinite" path="M530,194 C530,232 628,224 628,266"/></g>
+<path d="M232,338 C232,368 380,356 380,384" fill="none" stroke="#5eead4" stroke-width="1.6" stroke-opacity="0.85" stroke-dasharray="5 7" stroke-linecap="round" class="dash fast" marker-end="url(#ah-mint)"/>
+<g class="fx"><circle r="7.2" fill="#5eead4" opacity=".22"/><circle r="3" fill="#5eead4"/><animateMotion dur="2.4s" begin="-0.00s" repeatCount="indefinite" path="M232,338 C232,368 380,356 380,384"/></g>
+<path d="M628,338 C628,368 480,356 480,384" fill="none" stroke="#5eead4" stroke-width="1.6" stroke-opacity="0.85" stroke-dasharray="5 7" stroke-linecap="round" class="dash fast" marker-end="url(#ah-mint)"/>
+<g class="fx"><circle r="7.2" fill="#5eead4" opacity=".22"/><circle r="3" fill="#5eead4"/><animateMotion dur="2.4s" begin="-0.70s" repeatCount="indefinite" path="M628,338 C628,368 480,356 480,384"/></g>
+<path d="M430,456 L430,486" fill="none" stroke="#5eead4" stroke-width="1.6" stroke-opacity="0.85" stroke-dasharray="5 7" stroke-linecap="round" class="dash fast" marker-end="url(#ah-mint)"/>
+<g class="fx"><circle r="7.2" fill="#5eead4" opacity=".22"/><circle r="3" fill="#5eead4"/><animateMotion dur="2.4s" begin="-1.40s" repeatCount="indefinite" path="M430,456 L430,486"/></g>
+<path d="M430,558 L430,588" fill="none" stroke="#5eead4" stroke-width="1.6" stroke-opacity="0.85" stroke-dasharray="5 7" stroke-linecap="round" class="dash fast" marker-end="url(#ah-mint)"/>
+<g class="fx"><circle r="7.2" fill="#5eead4" opacity=".22"/><circle r="3" fill="#5eead4"/><animateMotion dur="2.4s" begin="-0.00s" repeatCount="indefinite" path="M430,558 L430,588"/></g>
+<path d="M430,660 L430,690" fill="none" stroke="#ffb454" stroke-width="1.6" stroke-opacity="0.85" stroke-dasharray="5 7" stroke-linecap="round" class="dash fast"/>
+<g class="fx"><circle r="7.2" fill="#ffb454" opacity=".22"/><circle r="3" fill="#ffb454"/><animateMotion dur="1.6s" begin="-0.00s" repeatCount="indefinite" path="M430,660 L430,690"/></g>
+<path d="M138,690 L715,690" stroke="#ffb454" stroke-opacity=".6" stroke-width="1.4" fill="none"/>
+<path d="M138,690 L138,706" stroke="#ffb454" stroke-opacity=".6" stroke-width="1.4" fill="none"/>
+<path d="M269,690 L269,706" stroke="#ffb454" stroke-opacity=".6" stroke-width="1.4" fill="none"/>
+<path d="M423,690 L423,706" stroke="#ffb454" stroke-opacity=".6" stroke-width="1.4" fill="none"/>
+<path d="M578,690 L578,706" stroke="#ffb454" stroke-opacity=".6" stroke-width="1.4" fill="none"/>
+<path d="M715,690 L715,706" stroke="#ffb454" stroke-opacity=".6" stroke-width="1.4" fill="none"/>
+<rect x="97" y="706" width="82" height="32" rx="16" fill="#0e1736" stroke="#ffb454" stroke-opacity=".85"/><text x="138.2" y="726.6" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="13" font-weight="400" fill="#eef3ff" >Overview</text>
+<rect x="188" y="706" width="162" height="32" rx="16" fill="#0e1736" stroke="#ffb454" stroke-opacity=".85"/><text x="269.0" y="726.6" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="13" font-weight="400" fill="#eef3ff" >Sub-clause breakdown</text>
+<rect x="359" y="706" width="128" height="32" rx="16" fill="#0e1736" stroke="#ffb454" stroke-opacity=".85"/><text x="423.3" y="726.6" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="13" font-weight="400" fill="#eef3ff" >Penal liability</text>
+<rect x="497" y="706" width="162" height="32" rx="16" fill="#0e1736" stroke="#ffb454" stroke-opacity=".85"/><text x="577.5" y="726.6" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="13" font-weight="400" fill="#eef3ff" >IPC/CrPC to BNS/BNSS</text>
+<rect x="668" y="706" width="95" height="32" rx="16" fill="#0e1736" stroke="#ffb454" stroke-opacity=".85"/><text x="715.0" y="726.6" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="13" font-weight="400" fill="#eef3ff" >Precedents</text>
+<rect x="130" y="746" width="600" height="28" rx="9" fill="#0e1736" stroke="#2c3f82"/>
+<text x="430.0" y="765.0" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,'DejaVu Sans',sans-serif" font-size="13" font-weight="400" fill="#b3c0e3" >React workspace over FastAPI: server-sent events, session history in SQLite</text>
+</svg>
